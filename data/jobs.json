@@ -1,11 +1,880 @@
 {
  "list": "nursing-jobs-us",
  "title": "US nursing jobs (RN, LPN/LVN, NP, CNA)",
- "generated_at": "2026-10-25T05:50Z",
+ "generated_at": "2026-10-26T05:50Z",
  "count": 300,
  "source": "VeritaHire - live US jobs read straight from employers' own career sites, re-checked daily",
  "license": "CC BY 4.0 - credit \"VeritaHire (veritahire.com)\"",
  "jobs": [
+  {
+   "title": "Registered Nurse ICU",
+   "employer": "The Resource Group, Spend Management Solutions",
+   "location": "Panama City, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$40.98 - $57.86 an hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:44",
+   "url": "https://veritahire.com/j/66658169"
+  },
+  {
+   "title": "New Grad Registered Nurse Residency Ortho Neuro",
+   "employer": "The Resource Group, Spend Management Solutions",
+   "location": "Waco, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$37.86 - $53.44 an hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:44",
+   "url": "https://veritahire.com/j/66658162"
+  },
+  {
+   "title": "New Grad Registered Nurse Residency Acute Care",
+   "employer": "The Resource Group, Spend Management Solutions",
+   "location": "Waco, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$37.86 - $53.44 an hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:44",
+   "url": "https://veritahire.com/j/66658155"
+  },
+  {
+   "title": "Nursing Assistant, Per Diem Nights, 7p-7a, Telemetry, Atlantic Health Newton Medical Center",
+   "employer": "Atlantic Health System",
+   "location": "Newton, NJ",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$21.58/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:44",
+   "url": "https://veritahire.com/j/66658051"
+  },
+  {
+   "title": "Registered Nurse (Internal Traveler) ICU",
+   "employer": "Saint Francis Health System",
+   "location": "OK",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$65.00 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:23",
+   "url": "https://veritahire.com/j/66640114"
+  },
+  {
+   "title": "Family Nurse Practitioner (NP)",
+   "employer": "Liberty Resources",
+   "location": "Fulton, NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$120K–$145K",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:15",
+   "url": "https://veritahire.com/j/66636864"
+  },
+  {
+   "title": "RN-Registered Nurse-PACU FT Day Vogel Center",
+   "employer": "RWJBarnabas Health",
+   "location": "Tinton Falls, NJ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$48.29–$67.04/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:13",
+   "url": "https://veritahire.com/j/66631925"
+  },
+  {
+   "title": "RN-Registered Nurse-MCH Float FT Night",
+   "employer": "RWJBarnabas Health",
+   "location": "Long Branch, NJ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$48.29–$67.04/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:13",
+   "url": "https://veritahire.com/j/66631923"
+  },
+  {
+   "title": "ER | RN | 13-Week Travel Contract - Farmville, VA",
+   "employer": "Ghr Healthcare",
+   "location": "Farmville, VA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$1910 - $2010 per week",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:05",
+   "url": "https://veritahire.com/j/66625306"
+  },
+  {
+   "title": "L&D | RN | 13-Week Travel Contract - Oakland, MD",
+   "employer": "Ghr Healthcare",
+   "location": "Oakland, MD",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$2340 - $2460 per week",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:05",
+   "url": "https://veritahire.com/j/66625305"
+  },
+  {
+   "title": "Med/Surg Tele | RN | 13-Week Travel Contract - Philadelphia, PA",
+   "employer": "Ghr Healthcare",
+   "location": "Philadelphia, PA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$2020 - $2130 per week",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:05",
+   "url": "https://veritahire.com/j/66625303"
+  },
+  {
+   "title": "Certified Nursing Assistant / CNA / HHA - Per Diem",
+   "employer": "Maplewood Senior Living",
+   "location": "MA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$21/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:01",
+   "url": "https://veritahire.com/j/66614940"
+  },
+  {
+   "title": "Registered Nurse (RN)",
+   "employer": "United Energy Workers Healthcare",
+   "location": "Addison, AL",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$38.00 /Hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:52",
+   "url": "https://veritahire.com/j/66604961"
+  },
+  {
+   "title": "RN Home Health Visits",
+   "employer": "BAYADA Home Health Care",
+   "location": "Lancaster, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$55–$65/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:31",
+   "url": "https://veritahire.com/j/66591902"
+  },
+  {
+   "title": "Registered Nurse-Senior Living Visits",
+   "employer": "BAYADA Home Health Care",
+   "location": "Allentown, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$52–$64/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:31",
+   "url": "https://veritahire.com/j/66591900"
+  },
+  {
+   "title": "CNA - SNF",
+   "employer": "Quick2hire",
+   "location": "Fennimore, WI",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$25 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:15",
+   "url": "https://veritahire.com/j/66571275"
+  },
+  {
+   "title": "Certified Nursing Assistant (CNA) - Full-Time 2nd Shift",
+   "employer": "Quick2hire",
+   "location": "Shawano, WI",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$20.50-$23.75 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:15",
+   "url": "https://veritahire.com/j/66571274"
+  },
+  {
+   "title": "NOC Shift - Certified Nursing Assistant - CNA",
+   "employer": "Quick2hire",
+   "location": "Black River Falls, WI",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$20 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:15",
+   "url": "https://veritahire.com/j/66571273"
+  },
+  {
+   "title": "RN I - Float Pool",
+   "employer": "Carilion Clinic",
+   "location": "Roanoke, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$33.52–$50.28/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 03:38",
+   "url": "https://veritahire.com/j/66554060"
+  },
+  {
+   "title": "Registered Nurse RN PCU Neurosurgical FT Nights",
+   "employer": "AdventHealth",
+   "location": "Orlando, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$31.85–$52.76/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 02:05",
+   "url": "https://veritahire.com/j/66458667"
+  },
+  {
+   "title": "Regsitered Nurse NICU",
+   "employer": "AdventHealth",
+   "location": "Hinsdale, IL",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$33.94–$57.08/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 02:05",
+   "url": "https://veritahire.com/j/66458666"
+  },
+  {
+   "title": "RN Registered Nurse Multispecialty Operating Room",
+   "employer": "AdventHealth",
+   "location": "Orlando, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$31.85–$52.76/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 02:05",
+   "url": "https://veritahire.com/j/66458665"
+  },
+  {
+   "title": "Level III Staff RN - Riverside - Ambulatory Infusion - Per Diem (0) - 8:30 AM - 7:00 PM",
+   "employer": "Kaiser Permanente",
+   "location": "Riverside, CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$74.50–$102.22/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 00:52",
+   "url": "https://veritahire.com/j/66396533"
+  },
+  {
+   "title": "RN-Registered Nurse-IR PD Day Vogel Center",
+   "employer": "RWJBarnabas Health",
+   "location": "Tinton Falls, NJ",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$48.29–$67.04/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:13",
+   "url": "https://veritahire.com/j/66631922"
+  },
+  {
+   "title": "Psychiatric Nurse Practitioner",
+   "employer": "Loyal Source Government Services",
+   "location": "El Paso, TX",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$68/hr",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:42",
+   "url": "https://veritahire.com/j/66600894"
+  },
+  {
+   "title": "Nurse Practitioner #2628 - Sexual & Reproductive Wellness - Health & Social Services Division",
+   "employer": "Hamilton County",
+   "location": "Chattanooga, TN",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$95K–$119K",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:32",
+   "url": "https://veritahire.com/j/66597727"
+  },
+  {
+   "title": "RN - MS Tele",
+   "employer": "Cynet Health",
+   "location": "Rancho Mirage, CA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$62.50 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:29",
+   "url": "https://veritahire.com/j/66591292"
+  },
+  {
+   "title": "RN - Tele",
+   "employer": "Cynet Health",
+   "location": "Rancho Mirage, CA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$70.88 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:29",
+   "url": "https://veritahire.com/j/66591291"
+  },
+  {
+   "title": "RN - Correctional Health",
+   "employer": "Cynet Health",
+   "location": "Portage, WI",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$64.19 per hour",
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:29",
+   "url": "https://veritahire.com/j/66591288"
+  },
+  {
+   "title": "RN Weekend Supervisor",
+   "employer": "American Senior Communities",
+   "location": "PERU, IN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:41",
+   "url": "https://veritahire.com/j/66651020"
+  },
+  {
+   "title": "Unit Manager RN",
+   "employer": "American Senior Communities",
+   "location": "PERU, IN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:41",
+   "url": "https://veritahire.com/j/66651019"
+  },
+  {
+   "title": "Certified Nurse Aide CNA",
+   "employer": "American Senior Communities",
+   "location": "Muncie, IN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:41",
+   "url": "https://veritahire.com/j/66651018"
+  },
+  {
+   "title": "RN - Registered Nurse - Neuro PCU - Days",
+   "employer": "BayCare Health System",
+   "location": "Tampa, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:03",
+   "url": "https://veritahire.com/j/66617265"
+  },
+  {
+   "title": "RN - Registered Nurse - Med/Surg - Days",
+   "employer": "BayCare Health System",
+   "location": "Tampa, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 05:03",
+   "url": "https://veritahire.com/j/66617264"
+  },
+  {
+   "title": "Nursing - LPN",
+   "employer": "Active Day",
+   "location": "Fort Wayne, IN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:49",
+   "url": "https://veritahire.com/j/66601611"
+  },
+  {
+   "title": "Nurse Tech - ICU / PRN",
+   "employer": "Mercy",
+   "location": "OK",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:49",
+   "url": "https://veritahire.com/j/66601602"
+  },
+  {
+   "title": "Registered Nurse,-Home Health Visits",
+   "employer": "BAYADA Home Health Care",
+   "location": "Lebanon, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:31",
+   "url": "https://veritahire.com/j/66591899"
+  },
+  {
+   "title": "RN - Emergency Room (ER) (Travel)",
+   "employer": "Medasource",
+   "location": "Conroe, TX",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:11",
+   "url": "https://veritahire.com/j/66569541"
+  },
+  {
+   "title": "RN - Operating Room (OR) (Travel)",
+   "employer": "Medasource",
+   "location": "Live Oak, TX",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:11",
+   "url": "https://veritahire.com/j/66569534"
+  },
+  {
+   "title": "Registered Nurse/RN",
+   "employer": "Rcm Engineering Group",
+   "location": "Germantown, TN",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:10",
+   "url": "https://veritahire.com/j/66566115"
+  },
+  {
+   "title": "CNA",
+   "employer": "Ssi (us) Inc",
+   "location": "el cajon, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:08",
+   "url": "https://veritahire.com/j/66563535"
+  },
+  {
+   "title": "RN-H",
+   "employer": "Ssi (us) Inc",
+   "location": "Columbia, MO",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:08",
+   "url": "https://veritahire.com/j/66563534"
+  },
+  {
+   "title": "LVN- Part Time",
+   "employer": "Ssi (us) Inc",
+   "location": "Chatsworth, CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:08",
+   "url": "https://veritahire.com/j/66563532"
+  },
+  {
+   "title": "Registered Nurse - RN - Dialysis",
+   "employer": "Fresenius Medical Care",
+   "location": "Swarthmore, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 03:14",
+   "url": "https://veritahire.com/j/66547552"
+  },
+  {
+   "title": "New Graduate Nurse",
+   "employer": "Fresenius Medical Care",
+   "location": "Hampton, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 03:14",
+   "url": "https://veritahire.com/j/66547539"
+  },
+  {
+   "title": "Registered Nurse (RN) - Emergency Department (ED) - St. Francis Downtown",
+   "employer": "Bon Secours Health System",
+   "location": "Greenville, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 01:38",
+   "url": "https://veritahire.com/j/66448325"
+  },
+  {
+   "title": "Registered Nurse (RN) - Emergency Department (ED) - Float Pool - St. Francis Downtown",
+   "employer": "Bon Secours Health System",
+   "location": "Greenville, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 01:38",
+   "url": "https://veritahire.com/j/66448321"
+  },
+  {
+   "title": "Registered Nurse (RN) - Endoscopy Unit - St. Francis Downtown",
+   "employer": "Bon Secours Health System",
+   "location": "Greenville, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 01:38",
+   "url": "https://veritahire.com/j/66448315"
+  },
+  {
+   "title": "Clinical Practice Specialist Registered Nurse Full-time Days",
+   "employer": "Northwestern Memorial Healthcare",
+   "location": "Winfield, IL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 01:34",
+   "url": "https://veritahire.com/j/66439198"
+  },
+  {
+   "title": "Registered Nurse - Operating Room",
+   "employer": "Lehigh Valley Health Network",
+   "location": "Allentown, PA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 01:24",
+   "url": "https://veritahire.com/j/66433954"
+  },
+  {
+   "title": "Registered Nurse RN Home Health",
+   "employer": "Enhabit Home Health & Hospice",
+   "location": "Claremore, OK",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 00:21",
+   "url": "https://veritahire.com/j/66358379"
+  },
+  {
+   "title": "Licensed Practical Nurse (LPN) - Home Health - Full Time",
+   "employer": "Enhabit Home Health & Hospice",
+   "location": "Lawton, OK",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 00:21",
+   "url": "https://veritahire.com/j/66358377"
+  },
+  {
+   "title": "Registered Nurse (RN) - Home Health - PRN",
+   "employer": "Enhabit Home Health & Hospice",
+   "location": "Rogers, AR",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 00:21",
+   "url": "https://veritahire.com/j/66358330"
+  },
+  {
+   "title": "Regional VP of Clinical Services, RN",
+   "employer": "Journey",
+   "location": "Cumming, GA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 00:10",
+   "url": "https://veritahire.com/j/66354906"
+  },
+  {
+   "title": "Caregiver - CNA (1st and 2nd shift)",
+   "employer": "Oxford Senior Living",
+   "location": "Kansas City, MO",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 04:12",
+   "url": "https://veritahire.com/j/66570867"
+  },
+  {
+   "title": "LPN",
+   "employer": "Grifols",
+   "location": "SC-Greenwood",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-26",
+   "last_confirmed": "2026-10-26 01:46",
+   "url": "https://veritahire.com/j/66458078"
+  },
+  {
+   "title": "RN - Admissions",
+   "employer": "Acadia Healthcare",
+   "location": "Battle Creek, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$36.00 - $54.29 / hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:48",
+   "url": "https://veritahire.com/j/66321062"
+  },
+  {
+   "title": "FACT Registered Nurse (RN)",
+   "employer": "Syracuse Behavioral Healthcare",
+   "location": "Syracuse, NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$40.00 - $45.00/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 05:32",
+   "url": "https://veritahire.com/j/66321059"
+  },
+  {
+   "title": "RN - Admissions",
+   "employer": "Centerpointe Behavioral Health System",
+   "location": "Battle Creek, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$36.00 - $54.29 / hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:40",
+   "url": "https://veritahire.com/j/66319227"
+  },
+  {
+   "title": "RN Nurse Manager - Labor and Delivery",
+   "employer": "Providence Health & Services",
+   "location": "Santa Monica, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$74.54 - $117.65 an hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 21:56",
+   "url": "https://veritahire.com/j/66293587"
+  },
+  {
+   "title": "Nursing Staff Scheduler, CNA Preferred",
+   "employer": "CommuniCare Health Services",
+   "location": "OH",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$16.50-24.50/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:47",
+   "url": "https://veritahire.com/j/66259006"
+  },
+  {
+   "title": "Registered Nurse (RN) - Riverside Pediatrics, Outpatient (Part Time)",
+   "employer": "University of Virginia",
+   "location": "Charlottesville, VA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$38.66 - $50.97 hourly",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:17",
+   "url": "https://veritahire.com/j/66219011"
+  },
+  {
+   "title": "Registered Nurse (RN) - General Medicine and Epilepsy (6 Central) - Wage",
+   "employer": "University of Virginia",
+   "location": "Charlottesville, VA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$41.05 - $54.15 hourly",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:17",
+   "url": "https://veritahire.com/j/66218999"
+  },
+  {
+   "title": "Licensed Practical Nurse (LPN) - Ambulatory (UVA Pediatrics Culpeper)",
+   "employer": "University of Virginia",
+   "location": "Culpeper, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$21.95–$34.02/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:17",
+   "url": "https://veritahire.com/j/66218843"
+  },
+  {
+   "title": "Nurse Manager System Float Pool",
+   "employer": "Inova",
+   "location": "Fairfax, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$118K–$192K",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:06",
+   "url": "https://veritahire.com/j/66204723"
+  },
+  {
+   "title": "Registered Nurse (RN) Outpatient Addiction Services",
+   "employer": "Inova",
+   "location": "Fairfax, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$37–$59.25/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:06",
+   "url": "https://veritahire.com/j/66204722"
+  },
+  {
+   "title": "Registered Nurse (RN) Malignant Hematology Oncology Clinic",
+   "employer": "Inova",
+   "location": "Fairfax, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$39–$64.25/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:06",
+   "url": "https://veritahire.com/j/66204721"
+  },
+  {
+   "title": "RN, Full Time Regular, Day Shift",
+   "employer": "Adventist Health",
+   "location": "Saint Helena, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$62.83–$93.28/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:06",
+   "url": "https://veritahire.com/j/66204574"
+  },
+  {
+   "title": "RN Surgery Resident - Gynecology/Urology OR",
+   "employer": "Cleveland Clinic",
+   "location": "Cleveland, OH",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$35.50/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 02:16",
+   "url": "https://veritahire.com/j/66159455"
+  },
+  {
+   "title": "HEDIS Clinical Medical Review Nurse",
+   "employer": "System One",
+   "location": "Columbia, MD",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$41/hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 17:22",
+   "url": "https://veritahire.com/j/66013192"
+  },
+  {
+   "title": "Registered Nurse",
+   "employer": "Schofield Care",
+   "location": "NY",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$36.00 - $42.00 Hourly",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 05:42",
+   "url": "https://veritahire.com/j/65982302"
+  },
+  {
+   "title": "LEAD CLINICAL NURSE (EMERGENCY DEPARTMENT)",
+   "employer": "Tsehootsooi Medical Center",
+   "location": "Fort Defiance, AZ",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$57.82 - $77.17 per hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 05:06",
+   "url": "https://veritahire.com/j/65942725"
+  },
+  {
+   "title": "Licensed Vocational Nurse (Per Diem)",
+   "employer": "Gateways Hospital and Mental Health Center",
+   "location": "Main Hospital - Los Angeles, CA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": "$31.76 - $33.05 Hourly",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 04:41",
+   "url": "https://veritahire.com/j/65933148"
+  },
+  {
+   "title": "RN Supervisor I Kelsey Seybold West Campus",
+   "employer": "UnitedHealth Group",
+   "location": "Katy, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$73K–$130K",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 02:08",
+   "url": "https://veritahire.com/j/65860435"
+  },
+  {
+   "title": "Staff Nurse II, PACU",
+   "employer": "Sutter Health",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$89.05 to $119.50 / hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 01:14",
+   "url": "https://veritahire.com/j/65823449"
+  },
+  {
+   "title": "LPN - Psychiatric Nurse",
+   "employer": "Centerpointe Behavioral Health System",
+   "location": "New Baltimore, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$24.50-$31.50 per hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:40",
+   "url": "https://veritahire.com/j/65716445"
+  },
+  {
+   "title": "Hybrid RN Case Manager - South Shore / Southeast MA - $5K SIGN ON BONUS!",
+   "employer": "Commonwealth Care Alliance",
+   "location": "Quincy, MA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": "$80K–$120K",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:38",
+   "url": "https://veritahire.com/j/65716431"
+  },
+  {
+   "title": "LPN - Licensed Practical Nurse: Per Diem or Part-Time - Skilled Nursing Rehab",
+   "employer": "Meadow Ridge",
+   "location": "Lincoln, MA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$40-$44/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:20",
+   "url": "https://veritahire.com/j/65714703"
+  },
+  {
+   "title": "Acute Care RN - Pediatric Oncology",
+   "employer": "Providence Health & Services",
+   "location": "Spokane, WA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": "$44.51 - $85.70 an hour",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 21:56",
+   "url": "https://veritahire.com/j/65695235"
+  },
   {
    "title": "Registered Nurse",
    "employer": "Gentiva",
@@ -14,52 +883,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$95K–$99K",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 03:52",
+   "last_confirmed": "2026-10-25 17:01",
    "url": "https://veritahire.com/j/65336420"
-  },
-  {
-   "title": "Registered Nurse Pain Management",
-   "employer": "The Resource Group, Spend Management Solutions",
-   "location": "Manhattan, KS",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$35.97 - $50.77 an hour",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 03:23",
-   "url": "https://veritahire.com/j/65319837"
-  },
-  {
-   "title": "Cardiac Stepdown | RN | 13-Week Travel Contract - Uniontown, PA",
-   "employer": "Ghr Healthcare",
-   "location": "Uniontown, PA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$2070 - $2180 per week",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:44",
-   "url": "https://veritahire.com/j/65286290"
-  },
-  {
-   "title": "OR | RN | 13-Week Travel Contract - Nampa, ID",
-   "employer": "Ghr Healthcare",
-   "location": "Nampa, ID",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$2000 - $2100 per week",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:44",
-   "url": "https://veritahire.com/j/65286289"
-  },
-  {
-   "title": "ER | RN | 13-Week Travel Contract - Bryan, OH",
-   "employer": "Ghr Healthcare",
-   "location": "Bryan, OH",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$1980 - $2080 per week",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:44",
-   "url": "https://veritahire.com/j/65286288"
   },
   {
    "title": "Nurse Case Manager",
@@ -69,7 +894,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$74K–$104K",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:35",
+   "last_confirmed": "2026-10-26 04:56",
    "url": "https://veritahire.com/j/65276911"
   },
   {
@@ -80,7 +905,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$18.00 to $23.31 an hour",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:27",
+   "last_confirmed": "2026-10-25 19:54",
    "url": "https://veritahire.com/j/65266272"
   },
   {
@@ -91,63 +916,19 @@
    "employment_type": "full_time",
    "pay_as_posted": "$41.90 to $62.76 an hour",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:27",
+   "last_confirmed": "2026-10-25 19:54",
    "url": "https://veritahire.com/j/65266269"
   },
   {
-   "title": "REGISTERED NURSE MS TELE 3W (FT NIGHTS)",
-   "employer": "Universal Health Services",
-   "location": "HENDERSON, NV",
+   "title": "Caregiver or CNA",
+   "employer": "Homewell Care Services",
+   "location": "White Lake, MI",
    "remote": false,
    "employment_type": "full_time",
-   "pay_as_posted": "$36.70 to $52.96 an hour",
+   "pay_as_posted": "$16–$19/hr",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:27",
-   "url": "https://veritahire.com/j/65266258"
-  },
-  {
-   "title": "LPN / LVN - General",
-   "employer": "Cynet Health",
-   "location": "Geneva, NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$28.90 per hour",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:20",
-   "url": "https://veritahire.com/j/65264272"
-  },
-  {
-   "title": "RN - Hospital at Home",
-   "employer": "BAYADA Home Health Care",
-   "location": "Philadelphia, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$45-$50 per hour",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:11",
-   "url": "https://veritahire.com/j/65254242"
-  },
-  {
-   "title": "Licensed Practical Nurse- (LPN)- Pediatric Home Care - Nights",
-   "employer": "BAYADA Home Health Care",
-   "location": "East Windsor, NJ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$32-$35 per hour",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:11",
-   "url": "https://veritahire.com/j/65254202"
-  },
-  {
-   "title": "Licensed Practical Nurse- (LPN)- Pediatric 1:1 School Nurse",
-   "employer": "BAYADA Home Health Care",
-   "location": "Allentown, NJ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$32-$35 per hour",
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:11",
-   "url": "https://veritahire.com/j/65254193"
+   "last_confirmed": "2026-10-26 04:10",
+   "url": "https://veritahire.com/j/65227527"
   },
   {
    "title": "Outpatient Registered Nurse - RN",
@@ -157,19 +938,52 @@
    "employment_type": "full_time",
    "pay_as_posted": "$33–$56/hr",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 00:31",
+   "last_confirmed": "2026-10-26 03:14",
    "url": "https://veritahire.com/j/65197338"
   },
   {
-   "title": "Permanent Operating Room Registered Nurse",
-   "employer": "Aya Healthcare",
-   "location": "New Brunswick, NJ",
+   "title": "RN Staff Nurse - Adult Psychiatric Care",
+   "employer": "Legacy Health",
+   "location": "PORTLAND, OR",
    "remote": false,
    "employment_type": null,
-   "pay_as_posted": "$56.00 per hour",
+   "pay_as_posted": "$84.66 /Hr",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:12",
-   "url": "https://veritahire.com/j/65370785"
+   "last_confirmed": "2026-10-25 18:04",
+   "url": "https://veritahire.com/j/66069193"
+  },
+  {
+   "title": "CNA/HHA - Assisted Living",
+   "employer": "Meadow Ridge",
+   "location": "Lincoln, MA",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$19–$20.25/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:20",
+   "url": "https://veritahire.com/j/65714704"
+  },
+  {
+   "title": "Casual RN/LPN",
+   "employer": "Benedictine",
+   "location": "ND",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$27.39–$50.58/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:06",
+   "url": "https://veritahire.com/j/65465974"
+  },
+  {
+   "title": "CNA",
+   "employer": "Benedictine",
+   "location": "WI",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$20.95–$23.14/hr",
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:06",
+   "url": "https://veritahire.com/j/65465900"
   },
   {
    "title": "Hybrid RN Case Manager - South Shore / Southeast MA - $5K SIGN ON BONUS!",
@@ -179,30 +993,459 @@
    "employment_type": null,
    "pay_as_posted": "$80K–$120K",
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:38",
+   "last_confirmed": "2026-10-26 04:51",
    "url": "https://veritahire.com/j/65278040"
   },
   {
-   "title": "RN - IR",
-   "employer": "Cynet Health",
-   "location": "Los Angeles, CA",
+   "title": "NURSE PRACTITIONER IV-PULMONOLOGY - FULL TIME- GREENSBURG",
+   "employer": "Independence Health System",
+   "location": "Greensburg, PA",
    "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$73.13 per hour",
+   "employment_type": "full_time",
+   "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:20",
-   "url": "https://veritahire.com/j/65264271"
+   "last_confirmed": "2026-10-25 23:10",
+   "url": "https://veritahire.com/j/66330237"
   },
   {
-   "title": "RN - EP Lab",
-   "employer": "Cynet Health",
-   "location": "Rochester, NY",
+   "title": "Certified Nursing Assistant CNA STNA (PRN)",
+   "employer": "Diversicare Healthcare Services Inc.",
+   "location": "Attalla Healthcare and Rehab, AL",
    "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$66.30 per hour",
+   "employment_type": "part_time",
+   "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:20",
-   "url": "https://veritahire.com/j/65264269"
+   "last_confirmed": "2026-10-25 22:20",
+   "url": "https://veritahire.com/j/66309828"
+  },
+  {
+   "title": "Nursing Assistant I, Surgical - Bayfront Hospital",
+   "employer": "Arnold Palmer Hospital For Children",
+   "location": "St. Petersburg, FL",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:20",
+   "url": "https://veritahire.com/j/66309824"
+  },
+  {
+   "title": "RN - Care Nurse Supervisor Per Diem",
+   "employer": "Meadow Ridge",
+   "location": "Roseland, NJ",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:20",
+   "url": "https://veritahire.com/j/66309813"
+  },
+  {
+   "title": "RN Nursing Unit Manager",
+   "employer": "CommuniCare Health Services",
+   "location": "WV",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:47",
+   "url": "https://veritahire.com/j/66259015"
+  },
+  {
+   "title": "RN Infection Prevention Nurse",
+   "employer": "CommuniCare Health Services",
+   "location": "WV",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:47",
+   "url": "https://veritahire.com/j/66259014"
+  },
+  {
+   "title": "CNA",
+   "employer": "Sevita",
+   "location": "Hammond, LA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:30",
+   "url": "https://veritahire.com/j/66233851"
+  },
+  {
+   "title": "Registered Nurse (RN) - Adult Emergency Department (ED) - St. Mary's Hospital",
+   "employer": "Bon Secours Mercy Health",
+   "location": "Richmond, VA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:13",
+   "url": "https://veritahire.com/j/66210354"
+  },
+  {
+   "title": "Registered Nurse (RN) - IVNA Health and Wellness Nurse - PRN",
+   "employer": "Bon Secours Mercy Health",
+   "location": "Richmond, VA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:13",
+   "url": "https://veritahire.com/j/66210271"
+  },
+  {
+   "title": "Registered Nurse - Home Health Care",
+   "employer": "Henry Ford Health",
+   "location": "Southfield, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:28",
+   "url": "https://veritahire.com/j/66174277"
+  },
+  {
+   "title": "RN Staff, ER - Lincoln Medical Center - Full Time",
+   "employer": "Huntsville Hospital",
+   "location": "Fayetteville, TN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:20",
+   "url": "https://veritahire.com/j/66169217"
+  },
+  {
+   "title": "RN Staff, OB - Lincoln Medical Center - Full Time, Nights",
+   "employer": "Huntsville Hospital",
+   "location": "Fayetteville, TN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:20",
+   "url": "https://veritahire.com/j/66169211"
+  },
+  {
+   "title": "RN Staff, ICU - Lincoln Medical Center - Full Time, Nights",
+   "employer": "Huntsville Hospital",
+   "location": "Fayetteville, TN",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:20",
+   "url": "https://veritahire.com/j/66169210"
+  },
+  {
+   "title": "Part Time AM Shift Registered Nurse",
+   "employer": "PACS",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 18:44",
+   "url": "https://veritahire.com/j/66118847"
+  },
+  {
+   "title": "Part Time PM Shift Registered Nurse",
+   "employer": "PACS",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 18:44",
+   "url": "https://veritahire.com/j/66118843"
+  },
+  {
+   "title": "Part Time NOC Shift Registered Nurse",
+   "employer": "PACS",
+   "location": "CA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 18:44",
+   "url": "https://veritahire.com/j/66118840"
+  },
+  {
+   "title": "Adv Prac Registered Nurse I",
+   "employer": "Sarasota Memorial Health Care System",
+   "location": "Sarasota, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 18:49",
+   "url": "https://veritahire.com/j/66079489"
+  },
+  {
+   "title": "Dialysis Registered Nurse",
+   "employer": "U.S. Renal Care",
+   "location": "Mansfield, TX",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 18:47",
+   "url": "https://veritahire.com/j/66012644"
+  },
+  {
+   "title": "Dialysis Charge Nurse - RN Chronic In-center",
+   "employer": "U.S. Renal Care",
+   "location": "Tampa, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 18:47",
+   "url": "https://veritahire.com/j/66012642"
+  },
+  {
+   "title": "PCA Aides - CNA Lexington",
+   "employer": "Active Day",
+   "location": "Lexington, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 04:49",
+   "url": "https://veritahire.com/j/65932036"
+  },
+  {
+   "title": "PCA Aides - CNA",
+   "employer": "Active Day",
+   "location": "Marion, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 04:49",
+   "url": "https://veritahire.com/j/65932034"
+  },
+  {
+   "title": "Nail Care Nurse",
+   "employer": "Bridgewater State University",
+   "location": "Marshfield, WI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 04:23",
+   "url": "https://veritahire.com/j/65921865"
+  },
+  {
+   "title": "Registered Nurse - Reidsville, NC",
+   "employer": "Cell Staff",
+   "location": "Reidsville, NC",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 04:02",
+   "url": "https://veritahire.com/j/65896818"
+  },
+  {
+   "title": "Registered Nurse - Seattle, WA",
+   "employer": "Cell Staff",
+   "location": "Seattle, WA",
+   "remote": false,
+   "employment_type": "contract",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 04:02",
+   "url": "https://veritahire.com/j/65896817"
+  },
+  {
+   "title": "HOUSE SUPV (RN)",
+   "employer": "Universal Health Services",
+   "location": "OAKLAND PARK, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:54",
+   "url": "https://veritahire.com/j/65874681"
+  },
+  {
+   "title": "RN Virtual ICU",
+   "employer": "Corewell Health",
+   "location": "Grand Rapids, MI",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 00:33",
+   "url": "https://veritahire.com/j/65784983"
+  },
+  {
+   "title": "Nurse Tech Advanced Cardiopulmonary Care Unit",
+   "employer": "Corewell Health",
+   "location": "Grand Rapids, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 00:33",
+   "url": "https://veritahire.com/j/65784979"
+  },
+  {
+   "title": "RN ED",
+   "employer": "Corewell Health",
+   "location": "Big Rapids, MI",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 00:33",
+   "url": "https://veritahire.com/j/65784953"
+  },
+  {
+   "title": "Licensed Nursing Assistant II - NICU - Part Time - Nights",
+   "employer": "SolutionHealth",
+   "location": "Manchester, NH",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 00:21",
+   "url": "https://veritahire.com/j/65759663"
+  },
+  {
+   "title": "On-Call LVN",
+   "employer": "St. Paul's Senior Services",
+   "location": "SAN DIEGO, CA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:17",
+   "url": "https://veritahire.com/j/65713593"
+  },
+  {
+   "title": "CNA (3pm-11pm)",
+   "employer": "White Oak Manor",
+   "location": "White Oak of Rock Hill - Rock Hill, SC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 21:56",
+   "url": "https://veritahire.com/j/65701987"
+  },
+  {
+   "title": "Registered Nurse Float",
+   "employer": "Ascension",
+   "location": "Miramar Beach, FL",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 21:18",
+   "url": "https://veritahire.com/j/65659393"
+  },
+  {
+   "title": "New Grad Registered Nurse",
+   "employer": "Ascension",
+   "location": "Panama City, FL",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 21:18",
+   "url": "https://veritahire.com/j/65659186"
+  },
+  {
+   "title": "Registered Nurse Clinic",
+   "employer": "Ascension",
+   "location": "Murfreesboro, TN",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 21:18",
+   "url": "https://veritahire.com/j/65658751"
+  },
+  {
+   "title": "Teletriage Nurse Practitioner/Physician Assistant - Full or Part-Time- NC, KY or IN license required",
+   "employer": "Eventus Wholehealth",
+   "location": "NC",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:14",
+   "url": "https://veritahire.com/j/65583440"
+  },
+  {
+   "title": "RN Residency - New Grad Registered Nurse - St. Elizabeth Youngstown Hospital",
+   "employer": "Bon Secours Mercy Health",
+   "location": "Youngstown, OH",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:13",
+   "url": "https://veritahire.com/j/65580534"
+  },
+  {
+   "title": "Clinical Nurse Manager (RN) - Acute Care - Cardiac Telemetry",
+   "employer": "Wellstar Health System",
+   "location": "Douglasville, GA",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:14",
+   "url": "https://veritahire.com/j/65578737"
+  },
+  {
+   "title": "Registered Nurse (RN) OB/Med-Surg - PRN",
+   "employer": "Wellstar Health System",
+   "location": "LaGrange, GA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:14",
+   "url": "https://veritahire.com/j/65578726"
+  },
+  {
+   "title": "Nursing Assistant (Care Partner) - Med/Surg -PRN",
+   "employer": "Wellstar Health System",
+   "location": "LaGrange, GA",
+   "remote": false,
+   "employment_type": "part_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 20:14",
+   "url": "https://veritahire.com/j/65578720"
+  },
+  {
+   "title": "Registered Nurse (RN) Behavioral Health Unit",
+   "employer": "Lifepoint Health Provider Recruitment",
+   "location": "Marquette, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:03",
+   "url": "https://veritahire.com/j/65442531"
+  },
+  {
+   "title": "Registered Nurse (RN) ICU",
+   "employer": "Lifepoint Health Provider Recruitment",
+   "location": "Marquette, MI",
+   "remote": false,
+   "employment_type": "full_time",
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:03",
+   "url": "https://veritahire.com/j/65442530"
   },
   {
    "title": "PreOp/PACU RN Virtual Hiring Event: Explore Your Next Career Move",
@@ -212,7 +1455,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:34",
+   "last_confirmed": "2026-10-25 18:44",
    "url": "https://veritahire.com/j/65396817"
   },
   {
@@ -223,7 +1466,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:32",
+   "last_confirmed": "2026-10-25 18:36",
    "url": "https://veritahire.com/j/65392799"
   },
   {
@@ -234,7 +1477,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:19",
+   "last_confirmed": "2026-10-25 18:26",
    "url": "https://veritahire.com/j/65376611"
   },
   {
@@ -245,7 +1488,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:19",
+   "last_confirmed": "2026-10-25 18:26",
    "url": "https://veritahire.com/j/65376610"
   },
   {
@@ -256,7 +1499,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:19",
+   "last_confirmed": "2026-10-25 18:26",
    "url": "https://veritahire.com/j/65376608"
   },
   {
@@ -267,7 +1510,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 03:52",
+   "last_confirmed": "2026-10-25 17:01",
    "url": "https://veritahire.com/j/65336425"
   },
   {
@@ -278,95 +1521,95 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 02:11",
+   "last_confirmed": "2026-10-26 04:31",
    "url": "https://veritahire.com/j/65256554"
   },
   {
-   "title": "Registered Nurse/RN",
-   "employer": "Rcm Engineering Group",
-   "location": "Wilmington, NC",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 01:58",
-   "url": "https://veritahire.com/j/65231669"
-  },
-  {
-   "title": "RN - Emergency Room (ER) (Travel)",
-   "employer": "Medasource",
-   "location": "Independence, MO",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 01:58",
-   "url": "https://veritahire.com/j/65229903"
-  },
-  {
-   "title": "RN - Progressive Care Unit (PCU) (Travel)",
-   "employer": "Medasource",
-   "location": "Tomball, TX",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 01:58",
-   "url": "https://veritahire.com/j/65229900"
-  },
-  {
-   "title": "RN - Intensive Care Unit (ICU) (Travel)",
-   "employer": "Medasource",
-   "location": "Dallas, TX",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 01:58",
-   "url": "https://veritahire.com/j/65229895"
-  },
-  {
-   "title": "New Graduate Nurse",
-   "employer": "Fresenius Medical Care",
-   "location": "Newberry, SC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 00:31",
-   "url": "https://veritahire.com/j/65197341"
-  },
-  {
-   "title": "Permanent MS/Tele Registered Nurse",
-   "employer": "Aya Healthcare",
-   "location": "Saint Joseph, MO",
+   "title": "Registered Nurse (RN) - Mon-Fri 3pm - '11pm $32 hour",
+   "employer": "Acadia Healthcare",
+   "location": "Magee, MS",
    "remote": false,
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:12",
-   "url": "https://veritahire.com/j/65370781"
+   "last_confirmed": "2026-10-25 22:48",
+   "url": "https://veritahire.com/j/66321063"
   },
   {
-   "title": "Permanent IMC Registered Nurse",
-   "employer": "Aya Healthcare",
-   "location": "New Bern, NC",
+   "title": "Registered Nurse (RN) - Mon-Fri 3pm - '11pm $32 hour",
+   "employer": "Centerpointe Behavioral Health System",
+   "location": "Magee, MS",
    "remote": false,
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 05:12",
-   "url": "https://veritahire.com/j/65370777"
+   "last_confirmed": "2026-10-25 22:40",
+   "url": "https://veritahire.com/j/66319231"
+  },
+  {
+   "title": "Nursing Assistant II, Surgical - Bayfront Hospital",
+   "employer": "Arnold Palmer Hospital For Children",
+   "location": "St. Petersburg, FL",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 22:20",
+   "url": "https://veritahire.com/j/66309823"
+  },
+  {
+   "title": "Permanent Operating Room Registered Nurse",
+   "employer": "Aya Healthcare",
+   "location": "Columbia, TN",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:23",
+   "url": "https://veritahire.com/j/66170913"
+  },
+  {
+   "title": "Permanent PCU Registered Nurse",
+   "employer": "Aya Healthcare",
+   "location": "Columbia, TN",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:23",
+   "url": "https://veritahire.com/j/66170910"
+  },
+  {
+   "title": "Permanent Endoscopy Registered Nurse",
+   "employer": "Aya Healthcare",
+   "location": "Columbia, TN",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-25 19:23",
+   "url": "https://veritahire.com/j/66170908"
+  },
+  {
+   "title": "RN - Registered Nurse Department Pool - PACU",
+   "employer": "BayCare Health System",
+   "location": "Tampa, FL",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": null,
+   "first_seen": "2026-10-25",
+   "last_confirmed": "2026-10-26 05:03",
+   "url": "https://veritahire.com/j/65954747"
   },
   {
    "title": "Telehealth: Psychiatric Mental Health Nurse Practitioner (PMHNP)",
    "employer": "Remote Teletherapist (1099 Contractor) - Seasoned Recruitment",
-   "location": "Remote (FL)",
+   "location": "Remote (UT)",
    "remote": true,
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-25",
-   "last_confirmed": "2026-10-25 04:40",
+   "last_confirmed": "2026-10-25 17:49",
    "url": "https://veritahire.com/j/65354311"
   },
   {
@@ -377,7 +1620,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$35.62 - $52.99 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:24",
    "url": "https://veritahire.com/j/65154878"
   },
   {
@@ -388,7 +1631,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$19.87–$26.94/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:08",
+   "last_confirmed": "2026-10-26 00:25",
    "url": "https://veritahire.com/j/65100768"
   },
   {
@@ -399,7 +1642,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$40.14 /Hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:09",
+   "last_confirmed": "2026-10-26 01:09",
    "url": "https://veritahire.com/j/65096940"
   },
   {
@@ -410,7 +1653,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$53,000 - $73,000 per year",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:36",
+   "last_confirmed": "2026-10-25 23:51",
    "url": "https://veritahire.com/j/65082554"
   },
   {
@@ -421,7 +1664,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$52.24–$78.36/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:44",
+   "last_confirmed": "2026-10-25 22:48",
    "url": "https://veritahire.com/j/65072119"
   },
   {
@@ -432,7 +1675,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$48.30–$72.45/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:44",
+   "last_confirmed": "2026-10-25 22:48",
    "url": "https://veritahire.com/j/65072118"
   },
   {
@@ -443,7 +1686,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$52.24–$78.36/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:44",
+   "last_confirmed": "2026-10-25 22:48",
    "url": "https://veritahire.com/j/65072117"
   },
   {
@@ -454,7 +1697,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$104,000.00 annually",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:43",
+   "last_confirmed": "2026-10-25 22:48",
    "url": "https://veritahire.com/j/65071763"
   },
   {
@@ -465,7 +1708,7 @@
    "employment_type": "internship",
    "pay_as_posted": "$34–$49.50/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:34",
+   "last_confirmed": "2026-10-25 22:38",
    "url": "https://veritahire.com/j/65066044"
   },
   {
@@ -476,7 +1719,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$78K–$134K",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:34",
+   "last_confirmed": "2026-10-25 22:38",
    "url": "https://veritahire.com/j/65066038"
   },
   {
@@ -487,7 +1730,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$35.16–$58.05/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:34",
+   "last_confirmed": "2026-10-25 22:38",
    "url": "https://veritahire.com/j/65066030"
   },
   {
@@ -498,7 +1741,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$49.86–$76.69/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:25",
+   "last_confirmed": "2026-10-25 22:28",
    "url": "https://veritahire.com/j/65060464"
   },
   {
@@ -509,7 +1752,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$49.86–$76.69/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:25",
+   "last_confirmed": "2026-10-25 22:28",
    "url": "https://veritahire.com/j/65060460"
   },
   {
@@ -520,7 +1763,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$37–$55/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:24",
+   "last_confirmed": "2026-10-25 22:28",
    "url": "https://veritahire.com/j/65060416"
   },
   {
@@ -531,7 +1774,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$37–$55/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:24",
+   "last_confirmed": "2026-10-25 22:28",
    "url": "https://veritahire.com/j/65060412"
   },
   {
@@ -542,7 +1785,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$20.19 - $30.26 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:35",
+   "last_confirmed": "2026-10-25 21:56",
    "url": "https://veritahire.com/j/65016341"
   },
   {
@@ -553,7 +1796,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$27.58 to $39.30 Hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:35",
+   "last_confirmed": "2026-10-25 21:59",
    "url": "https://veritahire.com/j/65016312"
   },
   {
@@ -564,7 +1807,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$39.54 to $56.34 Hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:35",
+   "last_confirmed": "2026-10-25 21:59",
    "url": "https://veritahire.com/j/65016308"
   },
   {
@@ -575,7 +1818,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$27.50–$43.18/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:32",
+   "last_confirmed": "2026-10-25 21:37",
    "url": "https://veritahire.com/j/65014567"
   },
   {
@@ -586,7 +1829,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$21.42–$33.20/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:32",
+   "last_confirmed": "2026-10-25 21:37",
    "url": "https://veritahire.com/j/65014541"
   },
   {
@@ -597,7 +1840,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$56.05 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:10",
+   "last_confirmed": "2026-10-26 02:06",
    "url": "https://veritahire.com/j/64949257"
   },
   {
@@ -608,7 +1851,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$29/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:02",
+   "last_confirmed": "2026-10-25 20:31",
    "url": "https://veritahire.com/j/64939872"
   },
   {
@@ -619,7 +1862,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$60 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:50",
+   "last_confirmed": "2026-10-25 20:06",
    "url": "https://veritahire.com/j/64905369"
   },
   {
@@ -630,7 +1873,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$72 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:50",
+   "last_confirmed": "2026-10-25 20:06",
    "url": "https://veritahire.com/j/64905365"
   },
   {
@@ -641,19 +1884,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$64 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:50",
+   "last_confirmed": "2026-10-25 20:06",
    "url": "https://veritahire.com/j/64905315"
-  },
-  {
-   "title": "Registered Nurse (RN) Stem Cell Transplant Infusion PRN",
-   "employer": "Inova",
-   "location": "Falls Church, VA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$39–$64.25/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:50",
-   "url": "https://veritahire.com/j/64904905"
   },
   {
    "title": "Temporary Registered Nurse, ICU",
@@ -663,7 +1895,7 @@
    "employment_type": "contract",
    "pay_as_posted": "$39.58–$78.93/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:29",
+   "last_confirmed": "2026-10-25 19:56",
    "url": "https://veritahire.com/j/64870345"
   },
   {
@@ -674,7 +1906,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$39.58–$78.93/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:29",
+   "last_confirmed": "2026-10-25 19:56",
    "url": "https://veritahire.com/j/64870343"
   },
   {
@@ -685,7 +1917,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$78K–$169K",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:08",
+   "last_confirmed": "2026-10-25 22:58",
    "url": "https://veritahire.com/j/64855245"
   },
   {
@@ -696,7 +1928,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$46.03–$99.14/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:08",
+   "last_confirmed": "2026-10-25 22:58",
    "url": "https://veritahire.com/j/64855238"
   },
   {
@@ -707,7 +1939,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$46.03–$99.14/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:07",
+   "last_confirmed": "2026-10-25 22:58",
    "url": "https://veritahire.com/j/64852086"
   },
   {
@@ -718,7 +1950,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$22.45–$30.57/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 16:55",
+   "last_confirmed": "2026-10-25 19:06",
    "url": "https://veritahire.com/j/64840622"
   },
   {
@@ -729,7 +1961,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$24-49 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 05:31",
+   "last_confirmed": "2026-10-25 18:41",
    "url": "https://veritahire.com/j/64805890"
   },
   {
@@ -740,7 +1972,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$38.91/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 05:23",
+   "last_confirmed": "2026-10-25 18:33",
    "url": "https://veritahire.com/j/64792907"
   },
   {
@@ -751,7 +1983,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$72 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:58",
+   "last_confirmed": "2026-10-25 18:05",
    "url": "https://veritahire.com/j/64769590"
   },
   {
@@ -762,7 +1994,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$55.20–$74.24/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:58",
+   "last_confirmed": "2026-10-25 18:05",
    "url": "https://veritahire.com/j/64769589"
   },
   {
@@ -773,7 +2005,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$72 an hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:58",
+   "last_confirmed": "2026-10-25 18:05",
    "url": "https://veritahire.com/j/64769588"
   },
   {
@@ -784,30 +2016,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$38.70–$53.24/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:05",
+   "last_confirmed": "2026-10-25 17:15",
    "url": "https://veritahire.com/j/64742683"
-  },
-  {
-   "title": "Registered Nurse Float",
-   "employer": "The Resource Group, Spend Management Solutions",
-   "location": "Miramar Beach, FL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$33.69 - $47.55 an hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:23",
-   "url": "https://veritahire.com/j/64723684"
-  },
-  {
-   "title": "Registered Nurse Neuro IMC",
-   "employer": "The Resource Group, Spend Management Solutions",
-   "location": "Austin, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$40.41 - $57.05 an hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:23",
-   "url": "https://veritahire.com/j/64723681"
   },
   {
    "title": "CNA - Med Surg | Telemetry",
@@ -817,7 +2027,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$20 - $26 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:00",
+   "last_confirmed": "2026-10-26 05:14",
    "url": "https://veritahire.com/j/64705782"
   },
   {
@@ -828,7 +2038,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$38–$43.25/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:59",
+   "last_confirmed": "2026-10-26 05:12",
    "url": "https://veritahire.com/j/64704244"
   },
   {
@@ -839,7 +2049,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$96/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:59",
+   "last_confirmed": "2026-10-26 05:15",
    "url": "https://veritahire.com/j/64704166"
   },
   {
@@ -850,7 +2060,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$165K–$175K",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:59",
+   "last_confirmed": "2026-10-26 05:15",
    "url": "https://veritahire.com/j/64704165"
   },
   {
@@ -861,7 +2071,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$164,700 to $196,900 per year",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:59",
+   "last_confirmed": "2026-10-26 05:15",
    "url": "https://veritahire.com/j/64704164"
   },
   {
@@ -872,7 +2082,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$17.54/hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:53",
+   "last_confirmed": "2026-10-26 05:10",
    "url": "https://veritahire.com/j/64698055"
   },
   {
@@ -883,7 +2093,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$22–$24/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:53",
+   "last_confirmed": "2026-10-26 05:10",
    "url": "https://veritahire.com/j/64698043"
   },
   {
@@ -894,41 +2104,8 @@
    "employment_type": "part_time",
    "pay_as_posted": "$35 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:38",
+   "last_confirmed": "2026-10-26 04:50",
    "url": "https://veritahire.com/j/64677040"
-  },
-  {
-   "title": "Registered Nurse (RN) Case Manager",
-   "employer": "Quick2hire",
-   "location": "Silverdale, WA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$48 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:05",
-   "url": "https://veritahire.com/j/64648615"
-  },
-  {
-   "title": "ICU RN",
-   "employer": "Quick2hire",
-   "location": "Lubbock, TX",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$2203 per week",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:05",
-   "url": "https://veritahire.com/j/64648606"
-  },
-  {
-   "title": "Certified Nurse's Aide",
-   "employer": "Quick2hire",
-   "location": "Issaquah, WA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": "$24 - $31 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:05",
-   "url": "https://veritahire.com/j/64648595"
   },
   {
    "title": "Hospice RN Case Manager",
@@ -938,7 +2115,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$75,620 to $113,430 annually",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:52",
+   "last_confirmed": "2026-10-26 02:08",
    "url": "https://veritahire.com/j/64593990"
   },
   {
@@ -949,19 +2126,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$24.87 - $37.31 hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:52",
+   "last_confirmed": "2026-10-26 02:08",
    "url": "https://veritahire.com/j/64593988"
-  },
-  {
-   "title": "CNA Hospice Aide",
-   "employer": "UnitedHealth Group",
-   "location": "Williamsburg, VA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$14.00 to $23.85 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:52",
-   "url": "https://veritahire.com/j/64593986"
   },
   {
    "title": "Registered Nurse RN General Surgery",
@@ -971,7 +2137,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$41.85- $61.63/hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:20",
+   "last_confirmed": "2026-10-26 01:35",
    "url": "https://veritahire.com/j/64573707"
   },
   {
@@ -982,7 +2148,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$58.92 - $106.24 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:24",
    "url": "https://veritahire.com/j/64563291"
   },
   {
@@ -993,7 +2159,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$47.41 - $70.52 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:24",
    "url": "https://veritahire.com/j/64563236"
   },
   {
@@ -1004,7 +2170,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$38.50–$44.25/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:09",
+   "last_confirmed": "2026-10-26 01:23",
    "url": "https://veritahire.com/j/64563197"
   },
   {
@@ -1015,7 +2181,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$71.72 to $100.40 / hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:00",
+   "last_confirmed": "2026-10-26 01:14",
    "url": "https://veritahire.com/j/64559115"
   },
   {
@@ -1026,19 +2192,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$90.58 to $126.81 / hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:00",
+   "last_confirmed": "2026-10-26 01:14",
    "url": "https://veritahire.com/j/64559109"
-  },
-  {
-   "title": "Clinic RN II, Surgical Oncology/GI Surgery",
-   "employer": "Sutter Health",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$86.27 to $120.77 / hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:00",
-   "url": "https://veritahire.com/j/64559097"
   },
   {
    "title": "CMA or CNA Starting at $18.78 + shift diff - Superb Benefits!",
@@ -1048,7 +2203,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$19.35 per hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:00",
+   "last_confirmed": "2026-10-26 01:14",
    "url": "https://veritahire.com/j/64557019"
   },
   {
@@ -1059,7 +2214,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$37.74/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:59",
+   "last_confirmed": "2026-10-26 01:13",
    "url": "https://veritahire.com/j/64556498"
   },
   {
@@ -1070,30 +2225,8 @@
    "employment_type": "part_time",
    "pay_as_posted": "$18.15 - $23.60 / hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:49",
+   "last_confirmed": "2026-10-26 01:06",
    "url": "https://veritahire.com/j/64547859"
-  },
-  {
-   "title": "Physician Assistant / Advanced Practice Nurse - Care Gap Closure, Chronic Care",
-   "employer": "Kaiser Permanente",
-   "location": "Aurora, CO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$63.10–$91.69/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:39",
-   "url": "https://veritahire.com/j/64544048"
-  },
-  {
-   "title": "RN PER DIEM III",
-   "employer": "The University of New Mexico Health Sciences Center",
-   "location": "Albuquerque, NM",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$51.49/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 10:27",
-   "url": "https://veritahire.com/j/64543670"
   },
   {
    "title": "CNA, Caregiver or HHA (PT PM) at Polar Ridge Senior Living",
@@ -1103,7 +2236,7 @@
    "employment_type": "part_time",
    "pay_as_posted": "$17.50–$22.50/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:40",
+   "last_confirmed": "2026-10-26 00:54",
    "url": "https://veritahire.com/j/64543254"
   },
   {
@@ -1114,7 +2247,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$28-$33/HR",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:40",
+   "last_confirmed": "2026-10-26 00:54",
    "url": "https://veritahire.com/j/64543253"
   },
   {
@@ -1125,7 +2258,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$90,000/year",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:31",
+   "last_confirmed": "2026-10-26 00:52",
    "url": "https://veritahire.com/j/64540810"
   },
   {
@@ -1136,7 +2269,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$36.74 - $62.05 hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:09",
+   "last_confirmed": "2026-10-26 00:25",
    "url": "https://veritahire.com/j/64520061"
   },
   {
@@ -1147,19 +2280,19 @@
    "employment_type": "full_time",
    "pay_as_posted": "$41.05 - $54.15 hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:09",
+   "last_confirmed": "2026-10-26 00:25",
    "url": "https://veritahire.com/j/64520045"
   },
   {
-   "title": "Advanced Practice Provider (NP/PA/APP) , Ambulatory Cardiology - UVA Health Augusta",
+   "title": "Registered Nurse (RN) - Acute Medicine and Epilepsy (6 Central)",
    "employer": "Uva Health",
-   "location": "Fishersville, VA",
+   "location": "Charlottesville, VA",
    "remote": false,
    "employment_type": "full_time",
-   "pay_as_posted": "$116,123.00 - $171,163.20 annually",
+   "pay_as_posted": "$41.05 - $54.15 hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:09",
-   "url": "https://veritahire.com/j/64520041"
+   "last_confirmed": "2026-10-26 00:25",
+   "url": "https://veritahire.com/j/64520038"
   },
   {
    "title": "RN Transitions Nurse",
@@ -1169,7 +2302,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$40.00 - $46.00 Hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:07",
+   "last_confirmed": "2026-10-26 00:31",
    "url": "https://veritahire.com/j/64511960"
   },
   {
@@ -1180,7 +2313,7 @@
    "employment_type": "full_time",
    "pay_as_posted": "$179,816.00 - $224,848.00 Salary",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:07",
+   "last_confirmed": "2026-10-26 00:22",
    "url": "https://veritahire.com/j/64510035"
   },
   {
@@ -1191,349 +2324,8 @@
    "employment_type": "full_time",
    "pay_as_posted": "$26.41 - $51.49 Hourly",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:57",
+   "last_confirmed": "2026-10-26 00:10",
    "url": "https://veritahire.com/j/64500850"
-  },
-  {
-   "title": "Staff Nurse, Resource Team",
-   "employer": "Mass General Brigham",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$33.78 - $69.33/Hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:36",
-   "url": "https://veritahire.com/j/64487846"
-  },
-  {
-   "title": "RN - Procedural - MGH",
-   "employer": "Mass General Brigham",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$41.72 - $108.29/Hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:36",
-   "url": "https://veritahire.com/j/64487828"
-  },
-  {
-   "title": "RN - Ortho/Urology Unit - MGH",
-   "employer": "Mass General Brigham",
-   "location": "MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$41.72 - $108.29/Hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:36",
-   "url": "https://veritahire.com/j/64487818"
-  },
-  {
-   "title": "Medical Management Nurse",
-   "employer": "Elevance Health",
-   "location": "VA-NORFOLK, VA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$38.35–$57.10/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:35",
-   "url": "https://veritahire.com/j/64487384"
-  },
-  {
-   "title": "SUPERVISING REGISTERED NURSE II, CORRECTIONAL FACILITY",
-   "employer": "State of California",
-   "location": "CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$139,260 - $174,324/yr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 08:25",
-   "url": "https://veritahire.com/j/64484599"
-  },
-  {
-   "title": "RN Home Health Admissions/Float",
-   "employer": "Kline Galland",
-   "location": "Seattle, WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$45.00 - $65.00 Hourly",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:34",
-   "url": "https://veritahire.com/j/64484436"
-  },
-  {
-   "title": "Home Health Registered Nurse",
-   "employer": "CenterWell",
-   "location": "Pueblo, CO",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$77,200 - $106,200 per year",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:36",
-   "url": "https://veritahire.com/j/64484334"
-  },
-  {
-   "title": "Advanced Registered Nurse Practitioner (ARNP)",
-   "employer": "Puyallup Tribal Health Authority",
-   "location": "Fife, WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$140,000 - $190,000 per year",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:24",
-   "url": "https://veritahire.com/j/64475575"
-  },
-  {
-   "title": "Home Care Registered Nurse (Flex/PRN)",
-   "employer": "Erickson Senior Living",
-   "location": "Parkville, MD",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$48.00 hourly",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:14",
-   "url": "https://veritahire.com/j/64473346"
-  },
-  {
-   "title": "RN Hospice Oncall Nurse",
-   "employer": "Amedisys",
-   "location": "Somersworth, NH",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$88K–$95K",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:45",
-   "url": "https://veritahire.com/j/64469215"
-  },
-  {
-   "title": "Certified Nursing Assistant-Women and Infant Care-Full Time",
-   "employer": "Riverside Health",
-   "location": "VA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$16.80 - $21.83/Hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:54",
-   "url": "https://veritahire.com/j/64462288"
-  },
-  {
-   "title": "Clinical Manager, RN",
-   "employer": "Accurate Home Care",
-   "location": "Saint Cloud, MN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$83K",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:56",
-   "url": "https://veritahire.com/j/64460051"
-  },
-  {
-   "title": "LPN Dispensing Nurse",
-   "employer": "Acadia Healthcare",
-   "location": "Aberdeen, WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$31.00 - $36.00 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:34",
-   "url": "https://veritahire.com/j/64447708"
-  },
-  {
-   "title": "Occupational Health Nurse",
-   "employer": "INEOS",
-   "location": "Alvin, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$125K–$188K",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:33",
-   "url": "https://veritahire.com/j/64443873"
-  },
-  {
-   "title": "LPN Dispensing Nurse",
-   "employer": "Centerpointe Behavioral Health System",
-   "location": "Aberdeen, WA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$31.00 - $36.00 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:17",
-   "url": "https://veritahire.com/j/64441836"
-  },
-  {
-   "title": "Clinical RN - PlasmaSource",
-   "employer": "Blood Systems",
-   "location": "IL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$38.39 - $50.68 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:13",
-   "url": "https://veritahire.com/j/64440204"
-  },
-  {
-   "title": "RN Nursing Supervisor - Labor and Delivery Full Time Nights",
-   "employer": "Providence Health & Services",
-   "location": "Fullerton, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$68.94–$108.84/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:35",
-   "url": "https://veritahire.com/j/64406666"
-  },
-  {
-   "title": "RN, Registered Nurse",
-   "employer": "CSL",
-   "location": "Rialto, CA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$36–$50.40/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:27",
-   "url": "https://veritahire.com/j/64403764"
-  },
-  {
-   "title": "Medical Staff Associate - RN or LPN or LVN or Paramedic or Advanced EMT",
-   "employer": "CSL",
-   "location": "Champaign, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$22.77–$39.30/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:27",
-   "url": "https://veritahire.com/j/64403763"
-  },
-  {
-   "title": "LPN and RN - PRN",
-   "employer": "Progressive Directions Inc.",
-   "location": "TN",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$30.00 per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:23",
-   "url": "https://veritahire.com/j/64401836"
-  },
-  {
-   "title": "Registered Nurse",
-   "employer": "Cfg Health Systems",
-   "location": "Goshen, NY",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$58.35 - $58.35 Hourly",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:23",
-   "url": "https://veritahire.com/j/64400617"
-  },
-  {
-   "title": "RN - Progressive Care Unit (Intermediate)",
-   "employer": "Carle Health",
-   "location": "Normal, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$59.89per hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:49",
-   "url": "https://veritahire.com/j/64399142"
-  },
-  {
-   "title": "Team Nurse (RN)",
-   "employer": "Vinfen",
-   "location": "Lawrence, MA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$89,175.00 /Yr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:12",
-   "url": "https://veritahire.com/j/64397142"
-  },
-  {
-   "title": "Adjunct Faculty- Nursing",
-   "employer": "Ivy Tech Community College",
-   "location": "Fort Wayne, IN",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$45.45/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:02",
-   "url": "https://veritahire.com/j/64380460"
-  },
-  {
-   "title": "Full-time Faculty - School of Nursing",
-   "employer": "Ivy Tech Community College",
-   "location": "Sellersburg, IN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$73K",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:02",
-   "url": "https://veritahire.com/j/64380457"
-  },
-  {
-   "title": "UChicago Medical Center | Registered Nurse Hospice Case Manager | Full-Time | Day Shift",
-   "employer": "Uchicago Medicine",
-   "location": "Harvey, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$46.83 - $54.62 an hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:02",
-   "url": "https://veritahire.com/j/64380260"
-  },
-  {
-   "title": "Registered Nurse EP-GI",
-   "employer": "Uchicago Medicine",
-   "location": "US",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$40.95 - $76.94 an hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:02",
-   "url": "https://veritahire.com/j/64380258"
-  },
-  {
-   "title": "Operating Room Nurse, Comer OR - Full-Time, Nights",
-   "employer": "Uchicago Medicine",
-   "location": "US",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$40.95 - $76.94 an hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:02",
-   "url": "https://veritahire.com/j/64380257"
-  },
-  {
-   "title": "Nurse Supervisor - Senior Living Community - Weekends/Per Diem",
-   "employer": "Mary Ann Morse Healthcare Corp.",
-   "location": "Mary Ann Morse at Heritage - Framingham, MA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": "$32.00 - $43.00 Hourly",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:57",
-   "url": "https://veritahire.com/j/64362044"
-  },
-  {
-   "title": "Licensed Practical Nurse (LPN) Unity Living Center (Full-Time, Nights)",
-   "employer": "Rochester Regional Health",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$28.51–$34.68/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:58",
-   "url": "https://veritahire.com/j/64347467"
-  },
-  {
-   "title": "Certified Nursing Assistant (CNA), Unity Living Center, (Full-Time Day Shift)",
-   "employer": "Rochester Regional Health",
-   "location": "NY",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": "$19.50–$22/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:58",
-   "url": "https://veritahire.com/j/64347458"
   },
   {
    "title": "Specialty Unit Staff RN - Stepdown",
@@ -1543,8 +2335,19 @@
    "employment_type": null,
    "pay_as_posted": "$74.50–$102.22/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:39",
+   "last_confirmed": "2026-10-26 00:53",
    "url": "https://veritahire.com/j/65133772"
+  },
+  {
+   "title": "CNA Certified Nursing Assistant Home Care Flexible Schedule",
+   "employer": "Home Helpers",
+   "location": "Venice, FL",
+   "remote": false,
+   "employment_type": null,
+   "pay_as_posted": "$17–$19/hr",
+   "first_seen": "2026-10-24",
+   "last_confirmed": "2026-10-26 04:00",
+   "url": "https://veritahire.com/j/64899000"
   },
   {
    "title": "Private Duty LPN/RN- Louisville DAY shifts",
@@ -1554,7 +2357,7 @@
    "employment_type": null,
    "pay_as_posted": "$30-$40/Hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 16:46",
+   "last_confirmed": "2026-10-25 19:02",
    "url": "https://veritahire.com/j/64832799"
   },
   {
@@ -1565,7 +2368,7 @@
    "employment_type": null,
    "pay_as_posted": "$30-$40/Hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 16:46",
+   "last_confirmed": "2026-10-25 19:02",
    "url": "https://veritahire.com/j/64832798"
   },
   {
@@ -1576,7 +2379,7 @@
    "employment_type": null,
    "pay_as_posted": "$30-$40/Hour",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 16:46",
+   "last_confirmed": "2026-10-25 19:02",
    "url": "https://veritahire.com/j/64832797"
   },
   {
@@ -1587,19 +2390,8 @@
    "employment_type": null,
    "pay_as_posted": "$61.30–$84.29/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:00",
+   "last_confirmed": "2026-10-26 05:13",
    "url": "https://veritahire.com/j/64705978"
-  },
-  {
-   "title": "Registered Nurse",
-   "employer": "Loyal Source Government Services",
-   "location": "TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$40.98/hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:31",
-   "url": "https://veritahire.com/j/64670385"
   },
   {
    "title": "Staff RN - Hospital - Med/Surg - San Diego",
@@ -1609,96 +2401,8 @@
    "employment_type": null,
    "pay_as_posted": "$71.63–$98.28/hr",
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:39",
+   "last_confirmed": "2026-10-26 00:53",
    "url": "https://veritahire.com/j/64544052"
-  },
-  {
-   "title": "Registered Nurse",
-   "employer": "Wellpath",
-   "location": "Indianapolis, IN",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$50.40/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:28",
-   "url": "https://veritahire.com/j/64484089"
-  },
-  {
-   "title": "RN (Nights) - PTU/PACU, Santa Monica Surgery Center",
-   "employer": "UCLA Health",
-   "location": "Santa Monica, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$65.76–$97.76/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:31",
-   "url": "https://veritahire.com/j/64467736"
-  },
-  {
-   "title": "RN - Medical Surgical ICU",
-   "employer": "Providence Health & Services",
-   "location": "Spokane, WA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$42.72 - $79.03 an hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:35",
-   "url": "https://veritahire.com/j/64406664"
-  },
-  {
-   "title": "Registered Nurse",
-   "employer": "Innovative Renal Care",
-   "location": "Lehigh Acres, FL",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$37- $46 / hour",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:18",
-   "url": "https://veritahire.com/j/64398867"
-  },
-  {
-   "title": "Nurse LPN",
-   "employer": "Community Medical Services",
-   "location": "TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$34–$37/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:59",
-   "url": "https://veritahire.com/j/64383226"
-  },
-  {
-   "title": "Weekend Hospice Nurse - Registered Nurse",
-   "employer": "Brighton Hospice",
-   "location": "Madison, WI",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$42.00-$45.00 hourly",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:08",
-   "url": "https://veritahire.com/j/64381021"
-  },
-  {
-   "title": "LPN Patient Care Advocate II",
-   "employer": "Wellbe Senior Medical",
-   "location": "Middletown, OH",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$30.00 - $38.00/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:02",
-   "url": "https://veritahire.com/j/64380500"
-  },
-  {
-   "title": "Registered Nurse - Inpatient Behavioral Health - Day Shift | 24 hours",
-   "employer": "Day Kimball Healthcare",
-   "location": "Putnam, CT",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": "$36.50–$62.29/hr",
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:00",
-   "url": "https://veritahire.com/j/64377560"
   },
   {
    "title": "APRN - NP or Physician Assistant: Primary Care Provider - Employer Health Clinic",
@@ -1708,7 +2412,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:22",
+   "last_confirmed": "2026-10-26 01:40",
    "url": "https://veritahire.com/j/65175045"
   },
   {
@@ -1719,7 +2423,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:22",
+   "last_confirmed": "2026-10-26 01:40",
    "url": "https://veritahire.com/j/65175040"
   },
   {
@@ -1730,7 +2434,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:22",
+   "last_confirmed": "2026-10-26 01:40",
    "url": "https://veritahire.com/j/65175038"
   },
   {
@@ -1741,7 +2445,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:15",
+   "last_confirmed": "2026-10-26 01:34",
    "url": "https://veritahire.com/j/65161060"
   },
   {
@@ -1752,7 +2456,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:09",
+   "last_confirmed": "2026-10-26 01:14",
    "url": "https://veritahire.com/j/65151390"
   },
   {
@@ -1763,7 +2467,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:11",
+   "last_confirmed": "2026-10-26 01:11",
    "url": "https://veritahire.com/j/65123371"
   },
   {
@@ -1774,7 +2478,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:27",
+   "last_confirmed": "2026-10-25 23:41",
    "url": "https://veritahire.com/j/65080133"
   },
   {
@@ -1785,7 +2489,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:43",
+   "last_confirmed": "2026-10-25 22:49",
    "url": "https://veritahire.com/j/65071606"
   },
   {
@@ -1796,7 +2500,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:43",
+   "last_confirmed": "2026-10-25 22:49",
    "url": "https://veritahire.com/j/65071600"
   },
   {
@@ -1807,7 +2511,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:25",
+   "last_confirmed": "2026-10-25 22:28",
    "url": "https://veritahire.com/j/65060456"
   },
   {
@@ -1818,7 +2522,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:15",
+   "last_confirmed": "2026-10-25 22:20",
    "url": "https://veritahire.com/j/65057319"
   },
   {
@@ -1829,19 +2533,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:15",
+   "last_confirmed": "2026-10-25 22:20",
    "url": "https://veritahire.com/j/65057314"
-  },
-  {
-   "title": "LVN LPN - NEW WAGE SCALE",
-   "employer": "Diversicare Healthcare Services Inc.",
-   "location": "LLC, MS",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:15",
-   "url": "https://veritahire.com/j/65057310"
   },
   {
    "title": "Clinical Nurse - Inpatient Hem/Onc",
@@ -1851,7 +2544,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:11",
+   "last_confirmed": "2026-10-26 05:25",
    "url": "https://veritahire.com/j/65048902"
   },
   {
@@ -1862,7 +2555,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:35",
+   "last_confirmed": "2026-10-25 21:59",
    "url": "https://veritahire.com/j/65016340"
   },
   {
@@ -1873,7 +2566,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:23",
+   "last_confirmed": "2026-10-25 21:37",
    "url": "https://veritahire.com/j/65011855"
   },
   {
@@ -1884,7 +2577,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:14",
+   "last_confirmed": "2026-10-25 21:37",
    "url": "https://veritahire.com/j/65010702"
   },
   {
@@ -1895,7 +2588,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:14",
+   "last_confirmed": "2026-10-25 21:37",
    "url": "https://veritahire.com/j/65010698"
   },
   {
@@ -1906,7 +2599,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:14",
+   "last_confirmed": "2026-10-25 21:37",
    "url": "https://veritahire.com/j/65010695"
   },
   {
@@ -1917,7 +2610,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:11",
+   "last_confirmed": "2026-10-25 20:29",
    "url": "https://veritahire.com/j/64952309"
   },
   {
@@ -1928,19 +2621,8 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:02",
+   "last_confirmed": "2026-10-25 20:31",
    "url": "https://veritahire.com/j/64940198"
-  },
-  {
-   "title": "Registered Nurse (RN) - Richmond Float Pool - Critical Care/Stepdown/Med Surg",
-   "employer": "Bon Secours Mercy Health",
-   "location": "Richmond, VA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:51",
-   "url": "https://veritahire.com/j/64908699"
   },
   {
    "title": "Part-Time Clinical Nursing Faculty - Hawaii.",
@@ -1950,7 +2632,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:49",
+   "last_confirmed": "2026-10-25 20:07",
    "url": "https://veritahire.com/j/64903292"
   },
   {
@@ -1961,7 +2643,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:49",
+   "last_confirmed": "2026-10-25 20:07",
    "url": "https://veritahire.com/j/64903291"
   },
   {
@@ -1972,7 +2654,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 17:49",
+   "last_confirmed": "2026-10-25 20:07",
    "url": "https://veritahire.com/j/64903288"
   },
   {
@@ -1983,7 +2665,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:17",
+   "last_confirmed": "2026-10-26 02:16",
    "url": "https://veritahire.com/j/64833739"
   },
   {
@@ -1994,7 +2676,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 05:35",
+   "last_confirmed": "2026-10-25 18:45",
    "url": "https://veritahire.com/j/64804521"
   },
   {
@@ -2005,7 +2687,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 05:23",
+   "last_confirmed": "2026-10-25 18:39",
    "url": "https://veritahire.com/j/64792755"
   },
   {
@@ -2016,7 +2698,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:58",
+   "last_confirmed": "2026-10-25 18:05",
    "url": "https://veritahire.com/j/64769325"
   },
   {
@@ -2027,7 +2709,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:55",
+   "last_confirmed": "2026-10-25 18:03",
    "url": "https://veritahire.com/j/64769190"
   },
   {
@@ -2038,7 +2720,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:55",
+   "last_confirmed": "2026-10-25 18:03",
    "url": "https://veritahire.com/j/64768023"
   },
   {
@@ -2049,7 +2731,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:55",
+   "last_confirmed": "2026-10-25 18:03",
    "url": "https://veritahire.com/j/64767970"
   },
   {
@@ -2060,7 +2742,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:35",
+   "last_confirmed": "2026-10-25 17:43",
    "url": "https://veritahire.com/j/64763120"
   },
   {
@@ -2071,7 +2753,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:25",
+   "last_confirmed": "2026-10-25 17:33",
    "url": "https://veritahire.com/j/64761604"
   },
   {
@@ -2082,7 +2764,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:41",
+   "last_confirmed": "2026-10-25 16:51",
    "url": "https://veritahire.com/j/64741053"
   },
   {
@@ -2093,19 +2775,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:41",
+   "last_confirmed": "2026-10-25 16:51",
    "url": "https://veritahire.com/j/64741046"
-  },
-  {
-   "title": "Unit Manager RN",
-   "employer": "American Senior Communities",
-   "location": "Indianapolis, IN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:30",
-   "url": "https://veritahire.com/j/64728122"
   },
   {
    "title": "RN - Methodist Surgery Center Germantown - PRN",
@@ -2115,7 +2786,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:00",
+   "last_confirmed": "2026-10-26 05:13",
    "url": "https://veritahire.com/j/64705983"
   },
   {
@@ -2126,7 +2797,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:00",
+   "last_confirmed": "2026-10-26 05:13",
    "url": "https://veritahire.com/j/64705982"
   },
   {
@@ -2137,7 +2808,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:00",
+   "last_confirmed": "2026-10-26 05:13",
    "url": "https://veritahire.com/j/64705980"
   },
   {
@@ -2148,7 +2819,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:59",
+   "last_confirmed": "2026-10-26 05:12",
    "url": "https://veritahire.com/j/64704272"
   },
   {
@@ -2159,7 +2830,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:53",
+   "last_confirmed": "2026-10-26 05:10",
    "url": "https://veritahire.com/j/64698045"
   },
   {
@@ -2170,30 +2841,8 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:48",
+   "last_confirmed": "2026-10-26 05:00",
    "url": "https://veritahire.com/j/64696868"
-  },
-  {
-   "title": "LPN (Per-Diem)",
-   "employer": "Active Day",
-   "location": "Weymouth, MA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:28",
-   "url": "https://veritahire.com/j/64671357"
-  },
-  {
-   "title": "PCA Aides - CNA Florence",
-   "employer": "Active Day",
-   "location": "Florence, SC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:28",
-   "url": "https://veritahire.com/j/64671355"
   },
   {
    "title": "Registered Nurse (RN) -Post Anesthesia Care Unit",
@@ -2203,7 +2852,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 02:09",
+   "last_confirmed": "2026-10-26 04:22",
    "url": "https://veritahire.com/j/64646599"
   },
   {
@@ -2214,7 +2863,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:57",
+   "last_confirmed": "2026-10-26 04:10",
    "url": "https://veritahire.com/j/64636952"
   },
   {
@@ -2225,19 +2874,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:57",
+   "last_confirmed": "2026-10-26 04:10",
    "url": "https://veritahire.com/j/64636944"
-  },
-  {
-   "title": "Registered Nurse - Spokane, WA",
-   "employer": "Cell Staff",
-   "location": "Spokane, WA",
-   "remote": false,
-   "employment_type": "contract",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:53",
-   "url": "https://veritahire.com/j/64636856"
   },
   {
    "title": "Lead Registered Nurse RN Crisis Receiving Center $7500 Bonus",
@@ -2247,7 +2885,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:12",
+   "last_confirmed": "2026-10-26 01:33",
    "url": "https://veritahire.com/j/64569559"
   },
   {
@@ -2258,7 +2896,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:11",
+   "last_confirmed": "2026-10-26 01:28",
    "url": "https://veritahire.com/j/64564087"
   },
   {
@@ -2269,7 +2907,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:11",
+   "last_confirmed": "2026-10-26 01:28",
    "url": "https://veritahire.com/j/64564072"
   },
   {
@@ -2280,7 +2918,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:11",
+   "last_confirmed": "2026-10-26 01:28",
    "url": "https://veritahire.com/j/64564031"
   },
   {
@@ -2291,7 +2929,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:26",
    "url": "https://veritahire.com/j/64562238"
   },
   {
@@ -2302,7 +2940,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:26",
    "url": "https://veritahire.com/j/64562230"
   },
   {
@@ -2313,7 +2951,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:26",
    "url": "https://veritahire.com/j/64562193"
   },
   {
@@ -2324,7 +2962,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:15",
+   "last_confirmed": "2026-10-26 01:34",
    "url": "https://veritahire.com/j/64561175"
   },
   {
@@ -2335,7 +2973,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:09",
+   "last_confirmed": "2026-10-26 01:14",
    "url": "https://veritahire.com/j/64560019"
   },
   {
@@ -2346,7 +2984,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:00",
+   "last_confirmed": "2026-10-26 01:15",
    "url": "https://veritahire.com/j/64557018"
   },
   {
@@ -2357,7 +2995,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:00",
+   "last_confirmed": "2026-10-26 01:15",
    "url": "https://veritahire.com/j/64557017"
   },
   {
@@ -2368,7 +3006,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:39",
+   "last_confirmed": "2026-10-26 00:52",
    "url": "https://veritahire.com/j/64543780"
   },
   {
@@ -2379,7 +3017,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:39",
+   "last_confirmed": "2026-10-26 00:52",
    "url": "https://veritahire.com/j/64543779"
   },
   {
@@ -2390,7 +3028,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:31",
+   "last_confirmed": "2026-10-26 00:45",
    "url": "https://veritahire.com/j/64539116"
   },
   {
@@ -2401,7 +3039,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:31",
+   "last_confirmed": "2026-10-26 00:45",
    "url": "https://veritahire.com/j/64539113"
   },
   {
@@ -2412,7 +3050,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:31",
+   "last_confirmed": "2026-10-26 00:45",
    "url": "https://veritahire.com/j/64539110"
   },
   {
@@ -2423,7 +3061,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:28",
+   "last_confirmed": "2026-10-26 00:44",
    "url": "https://veritahire.com/j/64538182"
   },
   {
@@ -2434,41 +3072,8 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:28",
+   "last_confirmed": "2026-10-26 00:44",
    "url": "https://veritahire.com/j/64538181"
-  },
-  {
-   "title": "RN Progressive Care",
-   "employer": "Corewell Health",
-   "location": "Farmington Hills, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:19",
-   "url": "https://veritahire.com/j/64523238"
-  },
-  {
-   "title": "RN Progressive Care Neuro",
-   "employer": "Corewell Health",
-   "location": "Trenton, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:19",
-   "url": "https://veritahire.com/j/64523159"
-  },
-  {
-   "title": "Nursing Assistant 9N ACE",
-   "employer": "Corewell Health",
-   "location": "Royal Oak, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:19",
-   "url": "https://veritahire.com/j/64523156"
   },
   {
    "title": "Jackson MHT & RN Hiring Event 10/27/2026 11:00AM - 2:00PM",
@@ -2478,7 +3083,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:09",
+   "last_confirmed": "2026-10-26 00:23",
    "url": "https://veritahire.com/j/64520170"
   },
   {
@@ -2489,7 +3094,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:08",
+   "last_confirmed": "2026-10-26 00:24",
    "url": "https://veritahire.com/j/64514800"
   },
   {
@@ -2500,7 +3105,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
+   "last_confirmed": "2026-10-26 00:32",
    "url": "https://veritahire.com/j/64504726"
   },
   {
@@ -2511,7 +3116,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
+   "last_confirmed": "2026-10-26 00:32",
    "url": "https://veritahire.com/j/64504722"
   },
   {
@@ -2522,41 +3127,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
+   "last_confirmed": "2026-10-26 00:32",
    "url": "https://veritahire.com/j/64504721"
-  },
-  {
-   "title": "RN Home Health",
-   "employer": "Enhabit Home Health & Hospice",
-   "location": "West Kingston, RI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
-   "url": "https://veritahire.com/j/64499725"
-  },
-  {
-   "title": "RN Director of Clinical Services Home Health",
-   "employer": "Enhabit Home Health & Hospice",
-   "location": "Warwick, RI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
-   "url": "https://veritahire.com/j/64499717"
-  },
-  {
-   "title": "RN - Home Health",
-   "employer": "Enhabit Home Health & Hospice",
-   "location": "Bristol, RI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
-   "url": "https://veritahire.com/j/64499715"
   },
   {
    "title": "Inpatient Registered Nurse Wound & Ostomy Specialist RN - Skin/Wound Ostomy - Part Time",
@@ -2566,7 +3138,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
+   "last_confirmed": "2026-10-26 00:21",
    "url": "https://veritahire.com/j/64497713"
   },
   {
@@ -2577,7 +3149,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:01",
+   "last_confirmed": "2026-10-26 00:21",
    "url": "https://veritahire.com/j/64497712"
   },
   {
@@ -2588,7 +3160,7 @@
    "employment_type": "part_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:02",
+   "last_confirmed": "2026-10-26 00:27",
    "url": "https://veritahire.com/j/64497432"
   },
   {
@@ -2599,7 +3171,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:02",
+   "last_confirmed": "2026-10-26 00:27",
    "url": "https://veritahire.com/j/64497431"
   },
   {
@@ -2610,7 +3182,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:02",
+   "last_confirmed": "2026-10-26 00:27",
    "url": "https://veritahire.com/j/64497427"
   },
   {
@@ -2621,7 +3193,7 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:56",
+   "last_confirmed": "2026-10-26 00:10",
    "url": "https://veritahire.com/j/64496603"
   },
   {
@@ -2632,536 +3204,8 @@
    "employment_type": "full_time",
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:56",
+   "last_confirmed": "2026-10-26 00:10",
    "url": "https://veritahire.com/j/64496595"
-  },
-  {
-   "title": "Licensed Practical Nurse",
-   "employer": "Journey",
-   "location": "Saint Albans, WV",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:56",
-   "url": "https://veritahire.com/j/64496594"
-  },
-  {
-   "title": "RN STAFF NURSE - SCH NURSERY",
-   "employer": "South Central Regional Medical Center",
-   "location": "Laurel, MS",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:37",
-   "url": "https://veritahire.com/j/64485199"
-  },
-  {
-   "title": "Registered Nurse PACU",
-   "employer": "USPI",
-   "location": "Arlington, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:26",
-   "url": "https://veritahire.com/j/64481309"
-  },
-  {
-   "title": "OCOM - Pre-Op Registered Nurse",
-   "employer": "USPI",
-   "location": "Oklahoma City, OK",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:26",
-   "url": "https://veritahire.com/j/64481304"
-  },
-  {
-   "title": "OCOM - OR Registered Nurse Circulator",
-   "employer": "USPI",
-   "location": "Oklahoma City, OK",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:26",
-   "url": "https://veritahire.com/j/64481303"
-  },
-  {
-   "title": "Idaho Vein Center NP - In Scenic Idaho!",
-   "employer": "Bsa Health System",
-   "location": "Pocatello, ID",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:20",
-   "url": "https://veritahire.com/j/64473752"
-  },
-  {
-   "title": "Registered Nurse / RN CVICU",
-   "employer": "Bsa Health System",
-   "location": "TULSA, OK",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:20",
-   "url": "https://veritahire.com/j/64473738"
-  },
-  {
-   "title": "Registered Nurse-$2,000 Sign on Incentive (Incentive for External New Hire Applicants)",
-   "employer": "Bernalillo County",
-   "location": "Albuquerque, NM",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:14",
-   "url": "https://veritahire.com/j/64472847"
-  },
-  {
-   "title": "Registered Nurse (RN) - Operating Room",
-   "employer": "Tenet Healthcare",
-   "location": "Commerce Township, MI",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:05",
-   "url": "https://veritahire.com/j/64469010"
-  },
-  {
-   "title": "Registered Nurse (RN) - Endo",
-   "employer": "Tenet Healthcare",
-   "location": "Detroit, MI",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:05",
-   "url": "https://veritahire.com/j/64468989"
-  },
-  {
-   "title": "Inpatient RN NICU RGV",
-   "employer": "Driscoll Health Employment Center",
-   "location": "TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:04",
-   "url": "https://veritahire.com/j/64468073"
-  },
-  {
-   "title": "Valley Dialysis RN",
-   "employer": "Driscoll Health Employment Center",
-   "location": "McAllen, TX",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:04",
-   "url": "https://veritahire.com/j/64468066"
-  },
-  {
-   "title": "Certified Nursing Assistant (CNA) (24283)",
-   "employer": "Cantex Continuing Care Network",
-   "location": "Skilled Nursing at Beacon Hill - Denison, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:08",
-   "url": "https://veritahire.com/j/64467669"
-  },
-  {
-   "title": "Registered Nurse, Epilepsy Monitoring Unit, FT Nights - VWCH",
-   "employer": "Vanderbilt University Medical Center",
-   "location": "Lebanon, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:54",
-   "url": "https://veritahire.com/j/64462711"
-  },
-  {
-   "title": "Registered Nurse, Neonatal ICU, FT Nights - Tullahoma",
-   "employer": "Vanderbilt University Medical Center",
-   "location": "Tullahoma, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:54",
-   "url": "https://veritahire.com/j/64462693"
-  },
-  {
-   "title": "Registered Nurse, Vascular Surgery Clinic",
-   "employer": "Vanderbilt University Medical Center",
-   "location": "Nashville, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:54",
-   "url": "https://veritahire.com/j/64462684"
-  },
-  {
-   "title": "RN CASUAL - ADULT INPATIENT BEHAVIORAL HEALTH",
-   "employer": "Independence Health System",
-   "location": "Latrobe, PA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:56",
-   "url": "https://veritahire.com/j/64461623"
-  },
-  {
-   "title": "REGISTERED NURSE, RN - ADOLESCENT INPATIENT BEHAVIORAL HEALTH",
-   "employer": "Independence Health System",
-   "location": "Latrobe, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:56",
-   "url": "https://veritahire.com/j/64461622"
-  },
-  {
-   "title": "NURSE PRACTITIONER IV",
-   "employer": "Independence Health System",
-   "location": "Greensburg, PA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:56",
-   "url": "https://veritahire.com/j/64461540"
-  },
-  {
-   "title": "Registered Nurse RN - Observation",
-   "employer": "Prime Healthcare",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:47",
-   "url": "https://veritahire.com/j/64452174"
-  },
-  {
-   "title": "Registered Nurse RN - Emergency",
-   "employer": "Prime Healthcare",
-   "location": "Chicago, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:47",
-   "url": "https://veritahire.com/j/64452164"
-  },
-  {
-   "title": "Licensed Practical Nurse - Emergency Services",
-   "employer": "Prime Healthcare",
-   "location": "Olympia Fields, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:47",
-   "url": "https://veritahire.com/j/64452162"
-  },
-  {
-   "title": "RN Dispensing Nurse",
-   "employer": "Acadia Healthcare",
-   "location": "Taylorsville, UT",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:34",
-   "url": "https://veritahire.com/j/64447711"
-  },
-  {
-   "title": "RN House Supervisor",
-   "employer": "Acadia Healthcare",
-   "location": "Greenville, NC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:34",
-   "url": "https://veritahire.com/j/64447696"
-  },
-  {
-   "title": "RN Dispensing Nurse",
-   "employer": "Centerpointe Behavioral Health System",
-   "location": "Taylorsville, UT",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:17",
-   "url": "https://veritahire.com/j/64441837"
-  },
-  {
-   "title": "RN House Supervisor",
-   "employer": "Centerpointe Behavioral Health System",
-   "location": "Greenville, NC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:17",
-   "url": "https://veritahire.com/j/64441833"
-  },
-  {
-   "title": "Physician Assistant or Nurse Practitioner - Emergency Medicine - ChristianaCare Hospital - Aston Campus",
-   "employer": "Vituity",
-   "location": "Aston, PA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:16",
-   "url": "https://veritahire.com/j/64441142"
-  },
-  {
-   "title": "Infusion Nurse",
-   "employer": "Medix Infusion",
-   "location": "Midland, TX",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:15",
-   "url": "https://veritahire.com/j/64440375"
-  },
-  {
-   "title": "LPN/RN Part time Weekends",
-   "employer": "Meadow Ridge",
-   "location": "Newton, MA",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:15",
-   "url": "https://veritahire.com/j/64440217"
-  },
-  {
-   "title": "Part Time LPN - Sunday & Monday 2p-8p",
-   "employer": "Meadow Ridge",
-   "location": "Milford, CT",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:15",
-   "url": "https://veritahire.com/j/64440216"
-  },
-  {
-   "title": "RN, Coronary Care Unit, Nights",
-   "employer": "Brookwood Baptist Health",
-   "location": "HOMEWOOD, AL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:03",
-   "url": "https://veritahire.com/j/64436999"
-  },
-  {
-   "title": "Registered Nurse Wound Care Part-Time Days",
-   "employer": "Brookwood Baptist Health",
-   "location": "ALABASTER, AL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:03",
-   "url": "https://veritahire.com/j/64436992"
-  },
-  {
-   "title": "Nursing Assistant II - Flexi - FT Days",
-   "employer": "Brookwood Baptist Health",
-   "location": "JASPER, AL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:03",
-   "url": "https://veritahire.com/j/64436989"
-  },
-  {
-   "title": "RN, WEO, 7a-7p, FT, Advance Care, $15,000 sign-on-bonus",
-   "employer": "Unity Health",
-   "location": "Searcy, AR",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:03",
-   "url": "https://veritahire.com/j/64435268"
-  },
-  {
-   "title": "RN, FT 7P-7A, LTAC, 15K Sign On Bonus, Advanced Care Hospital",
-   "employer": "Unity Health",
-   "location": "Searcy, AR",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 20:03",
-   "url": "https://veritahire.com/j/64435260"
-  },
-  {
-   "title": "Registered Nurse-ED, Full Time, Day Shift",
-   "employer": "Victor Valley Global Medical Center",
-   "location": "Victor Valley, CA",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:54",
-   "url": "https://veritahire.com/j/64428458"
-  },
-  {
-   "title": "RN MDS Assessment Coordinator",
-   "employer": "White Oak Manor",
-   "location": "White Oak Manor Shelby - Shelby, NC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:43",
-   "url": "https://veritahire.com/j/64419400"
-  },
-  {
-   "title": "Medical Staff Associate - RN/LPN/LVN/Paramedic (Bilingual - English/Spanish)",
-   "employer": "CSL",
-   "location": "Margate, FL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:27",
-   "url": "https://veritahire.com/j/64403779"
-  },
-  {
-   "title": "Staff Nurse - Internal Medicine Part-time Days",
-   "employer": "Northwestern Medicine",
-   "location": "Saint Charles, IL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:23",
-   "url": "https://veritahire.com/j/64403416"
-  },
-  {
-   "title": "BCVI Clinical Nurse Coordinator",
-   "employer": "Northwestern Medicine",
-   "location": "Winfield, IL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:23",
-   "url": "https://veritahire.com/j/64403414"
-  },
-  {
-   "title": "Registered Nurse - Women's Surgery PreOp/PACU",
-   "employer": "Tucson Medical Center",
-   "location": "Tucson, AZ",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:12",
-   "url": "https://veritahire.com/j/64396913"
-  },
-  {
-   "title": "Registered Nurse, RN - Home Health - PRN",
-   "employer": "VitalCaring Group",
-   "location": "Dallas, TX",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:08",
-   "url": "https://veritahire.com/j/64380599"
-  },
-  {
-   "title": "Registered Nurse, RN - Home Health PRN",
-   "employer": "VitalCaring Group",
-   "location": "Orlando, FL",
-   "remote": false,
-   "employment_type": "part_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:08",
-   "url": "https://veritahire.com/j/64380555"
-  },
-  {
-   "title": "Registered Nurse Inpatient Rehabilitation",
-   "employer": "Ascension",
-   "location": "Pensacola, FL",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:54",
-   "url": "https://veritahire.com/j/64372558"
-  },
-  {
-   "title": "Registered Nurse Medical Surgical NE",
-   "employer": "Ascension",
-   "location": "Murfreesboro, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:54",
-   "url": "https://veritahire.com/j/64372108"
-  },
-  {
-   "title": "Registered Nurse ED",
-   "employer": "Ascension",
-   "location": "Murfreesboro, TN",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:54",
-   "url": "https://veritahire.com/j/64371995"
-  },
-  {
-   "title": "Manager Nursing",
-   "employer": "Consulate Health Care",
-   "location": "Greensboro, NC",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:53",
-   "url": "https://veritahire.com/j/64358564"
-  },
-  {
-   "title": "RN Crisis - Urgent Recovery Center",
-   "employer": "Family & Children's Services",
-   "location": "Norman, OK",
-   "remote": false,
-   "employment_type": "full_time",
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:52",
-   "url": "https://veritahire.com/j/64351144"
   },
   {
    "title": "Registered Nurse Shift Supervisor (RN) - SDSC",
@@ -3171,7 +3215,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:05",
+   "last_confirmed": "2026-10-25 23:19",
    "url": "https://veritahire.com/j/65078298"
   },
   {
@@ -3182,7 +3226,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:02",
+   "last_confirmed": "2026-10-25 20:31",
    "url": "https://veritahire.com/j/64940211"
   },
   {
@@ -3193,7 +3237,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:52",
+   "last_confirmed": "2026-10-25 17:01",
    "url": "https://veritahire.com/j/64742678"
   },
   {
@@ -3204,7 +3248,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 03:33",
+   "last_confirmed": "2026-10-26 05:44",
    "url": "https://veritahire.com/j/64733100"
   },
   {
@@ -3215,7 +3259,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 01:57",
+   "last_confirmed": "2026-10-26 04:11",
    "url": "https://veritahire.com/j/64636948"
   },
   {
@@ -3226,7 +3270,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:12",
+   "last_confirmed": "2026-10-26 01:35",
    "url": "https://veritahire.com/j/64567476"
   },
   {
@@ -3237,7 +3281,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 23:10",
+   "last_confirmed": "2026-10-26 01:26",
    "url": "https://veritahire.com/j/64561389"
   },
   {
@@ -3248,7 +3292,7 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 22:31",
+   "last_confirmed": "2026-10-26 00:52",
    "url": "https://veritahire.com/j/64540496"
   },
   {
@@ -3259,52 +3303,8 @@
    "employment_type": null,
    "pay_as_posted": null,
    "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:59",
+   "last_confirmed": "2026-10-26 00:12",
    "url": "https://veritahire.com/j/64501959"
-  },
-  {
-   "title": "Licensed Vocational Nurse",
-   "employer": "Wellpath",
-   "location": "San Andreas, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 21:28",
-   "url": "https://veritahire.com/j/64484087"
-  },
-  {
-   "title": "Occupational Medicine Nurse Practitioner",
-   "employer": "Health and Safety Council®",
-   "location": "TX",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 19:23",
-   "url": "https://veritahire.com/j/64400570"
-  },
-  {
-   "title": "Nurse Standards Specialist",
-   "employer": "Community Medical Services",
-   "location": "OH",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-25 04:59",
-   "url": "https://veritahire.com/j/64383195"
-  },
-  {
-   "title": "Registered Nurse Infusion",
-   "employer": "Restore Hyper Wellness",
-   "location": "Valencia, CA",
-   "remote": false,
-   "employment_type": null,
-   "pay_as_posted": null,
-   "first_seen": "2026-10-24",
-   "last_confirmed": "2026-10-24 18:52",
-   "url": "https://veritahire.com/j/64349835"
   }
  ]
 }
