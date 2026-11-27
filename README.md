@@ -17,310 +17,310 @@ around 2.9 million live jobs free at [veritahire.com](https://veritahire.com/sea
 Other daily lists: [US Entry-Level and New-Grad Jobs](https://github.com/veritahire/us-entry-level-jobs) · [US Internships and Co-ops](https://github.com/veritahire/us-internships) · [Remote Jobs in the US](https://github.com/veritahire/remote-jobs-us) · [US Jobs That Post Their Pay](https://github.com/veritahire/jobs-with-pay-us)
 
 <!-- jobs:start -->
-**300 jobs**, updated 2026-11-26. Every one was confirmed on the employer's own career site in the last 3 days.
+**300 jobs**, updated 2026-11-27. Every one was confirmed on the employer's own career site in the last 3 days.
 
 | Role | Employer | Location | Pay (as posted) | Type | Posted | |
 |---|---|---|---|---|---|---|
-| Nursing Assistant Float Pool | Allina Health | MN | $21.33 to $27.78 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104171622) |
-| RN Emergency Department | Allina Health | MN | $40.68 to $61.63 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104171618) |
-| Nursing Assistant | Allina Health | MN | $21.33 to $27.78 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104171602) |
-| Registered Nurse - Transport Team | Seattle Children's | Seattle, WA | $51.60 - $91.30 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104171326) |
-| Registered Nurse, Surgical Intermediate Care Unit - Surgical Step Down, 36 Hours (Day/Night / Rotating Weekends) | Boston Medical Center (bmc) | MA | $38.05–$75.33/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104170100) |
-| New Graduate RN Residency, Cardiac/ Medical IMCU, Nights (March 2027) | Boston Medical Center (bmc) | MA | $38.05–$75.33/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104170099) |
-| New Graduate RN Residency, Cardiac/ Medical IMCU, Day/ Nights, (March 2027) | Boston Medical Center (bmc) | MA | $38.05–$75.33/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104170097) |
-| RN - Cancer Infusion Center - Suffolk | Riverside Health | VA | $36.50 - $50.23/Hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104170048) |
-| RN Gloucester Cancer Infusion Center | Riverside Health | VA | $36.50 - $50.23/Hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104170042) |
-| LPN - Hayes Medical Center | Riverside Health | Riverside Hayes Medical Center - Hayes, VA | $25.80 - $35.48/Hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104170040) |
-| RN Registered Nurse, Denver CARES - PT | Denver Health | Denver, CO | $36.32 - $54.48 / hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104168872) |
-| Temporary Orthopedic Surgery APP (Physician Assistant or Nurse Practitioner) | Denver Health | Denver, CO | $134,000.00 - $152,700.00 / yr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168871) |
-| S_Venous Access Nurse | Dana-farber Cancer Institute | IL | $82K–$125K | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104168558) |
-| Licensed Practical Nurse LPN | Erickson Senior Living | Highlands Ranch, CO | $32-$38 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168452) |
-| Registered Nurse- OB Postpartum | Kaweah Health | Visalia, CA | $48.30–$72.45/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168392) |
-| Registered Nurse RN | Umc - Abundant Life For Seniors | Pitman, NJ | $40.33 - $50.33 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104164579) |
-| CNA or CHHA - Assisted Living | Umc - Abundant Life For Seniors | Collingswood, NJ | $21.50 - $24.25 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104164578) |
-| Nursing Supervisor RN Float (BV) | Outagamie County | Appleton, WI | $38.87–$45.06/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104164535) |
-| RN - PT Day (Sundays only) | LCS (Life Care Services) | Tempe, AZ | $36.23- $39.85/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104163773) |
-| LPN - Nights | LCS (Life Care Services) | Phoenix, AZ | $30-$38 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104163764) |
-| Registered Nurse, Primary Care - Full-Time, Days | Uchicago Medicine | US | $46.13 - $53.81 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104161901) |
-| Registered Nurse, Urgent Care - Full-Time, Days | Uchicago Medicine | US | $46.13 - $53.81 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104161899) |
-| Oncology Nurse Navigator - Full-Time, Days | Uchicago Medicine | US | $108,990 - $127,155 a year | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104161897) |
-| Hybrid Registered Nurse - Massachusetts, Franklin County | Commonwealth Care Alliance | Boston, MA | $75K–$120K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104157638) |
-| Registered Nurse | The Arc of Madison Cortland | NY | $75K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104153216) |
-| House Supervisor RN - Per Diem Night | Providence Health & Services | Petaluma, CA | $82.99–$131.03/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104144666) |
-| Certified Nursing Assistant Per diem - Night | Providence Health & Services | Santa Monica, CA | $25.06 - $25.06 an hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104144662) |
-| Certified Nursing Assistant Per diem- Day | Providence Health & Services | Santa Monica, CA | $25.06 - $25.06 an hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104144660) |
-| Registered Nurse YIU | Kitsap Mental Health Services | Bremerton, WA | $42/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104141072) |
-| Registered Nurse AIU | Kitsap Mental Health Services | Bremerton, WA | $42/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104141071) |
-| RN Clinical, Lead - 6 S Tele - Part Time 12 Hour Nights (Non-Exempt) (Union) | USC Keck Medicine | Los Angeles, CA | $49.20–$104/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104132385) |
-| Medical Surgical Registered Nurse (RN) - Part Time | Bartlett Regional Hospital | Juneau, AK | $43.78 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104131623) |
-| Mental Health Registered Nurse (RN) - Full Time - Nights | Bartlett Regional Hospital | Juneau, AK | $43.78 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104131618) |
-| Licensed Practical Nurse (LPN) - Home Health / 1:1 Patient Care & Flexible Hours / Shoreline | LifeMatters | CT | $42.00/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104125514) |
-| Licensed Practical Nurse (LPN) - Home Health / 1:1 Patient Care & Flexible Hours / Litchfield County | LifeMatters | Litchfield, CT | $42.00/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104125513) |
-| Clinical Review Nurse | Alere Inc. | Overland Park, KS | $26.50 - $53.00 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104125057) |
-| Registered Nurse (RN) Unit-Based Rotational Float Pool (Full-Time Flex) | ChristianaCare | Newark, DE | $42.11–$67.37/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104124615) |
-| Registered Nurse, Case Manager, Care Coordinator, Team Lead | Social Worker in Los Angeles County | Covina, CA | $104,000.00 annually | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104123218) |
-| Registered Nurse, Per Diem | San Francisco AIDS Foundation | San Francisco, CA | $ 51.92 - $64.90 Per Hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104121598) |
-| Licensed Practical Nurse for Personal Care Management Program | Tempus Unlimited, Inc. | Worcester, MA | $31 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104117779) |
-| Certified Nursing Assistant (CNA) or Home Health Aide (HHA) | Giving Home Health Care | Kingman, AZ | $18-22/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104109661) |
-| PRN Dialysis RN | Concerto Renal Services | Corporate Massachusetts - Stoughton, MA | $45.00 - $65.00 Hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104104700) |
-| Dialysis Nurse | Concerto Renal Services | Trilogy-Franciscan - Louisville, KY | $38 - $50 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104698) |
-| Registered Nurse RN Emerson 5 Med Surg Ortho DAYS | South Shore Health | Weymouth, MA | $39.50–$84.02/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104052) |
-| Registered Nurse RN IV Team Full Time Days | South Shore Health | Weymouth, MA | $39.50–$84.02/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104035) |
-| Nursing Assistant NA CNA IMCU Full Time Evenings | South Shore Health | Weymouth, MA | $19.10–$27.30/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104033) |
-| CNA, HHA & Caregivers (FT/PT PM) at Highland Senior Living | Lifespark | Little Falls, MN | $17.50 - 22.50 hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104103277) |
-| Caregiver/HHA/CNA (FT/PT AM & FT NOC) at Legacy of Farmington Senior Living | Lifespark | Farmington, MN | $17.50 - 22.50 hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104103272) |
-| Boden Maplewood - Licensed Practical Nurse, LPN or Registered Nurse, RN | Lifespark | Saint Paul, MN | $27.00-$32.50 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104103268) |
-| Professional Staff Nurse, Pediatrics/PICU (Harrisburg) | UPMC | Harrisburg, PA | $ 38.96-51.73 USD | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104102889) |
-| 12N Acute Care - Professional Staff Nurse - Weekend Program at UPMC Presbyterian | UPMC | Pittsburgh, PA | $ 37.0-48.21 USD | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104102878) |
-| Clinical RN II- Med Surg Tele | Palomar Health | Poway, CA | $54.15–$78.82/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104102518) |
-| Psychiatric Nurse Practitioner | Mediko | Shasta County Jail - Redding, CA | $120.00 - $129.00 Hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104100704) |
-| MAT Registered Nurse-AM | Mediko | WA | $54.00 - $64.00 Hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104100702) |
-| MAT Registered Nurse- AM | Mediko | WA | $54.00 - $64.00 Hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104100698) |
-| CNA | PACS | WA | $23.50 to $29.38 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104099719) |
-| Registered Nurse - Cardiovascular Surgical Intensive Care Unit (CSICU) | Sentara Health | Norfolk, VA | $41.93 - $61.01 hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104096653) |
-| Travel Registered Nurse (RN) - Med/Surg | Sentara Health | Virginia Beach, VA | $75.00/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104096651) |
-| Travel Registered Nurse (RN) - Medicine Oncology Unit | Sentara Health | Virginia Beach, VA | $75.00/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104096649) |
-| Registered Nurse (RN) ED | Trinity Health | Melrose Park, IL | $36.05 - $59.92 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104096600) |
-| Travel Registered Nurse, RN, ICU | Trinity Health | IA | $140K | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104096598) |
-| Travel Registered Nurse, RN, PACU | Trinity Health | IA | $131K | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104096594) |
-| LPN Scrub Nurse - Labor and Delivery - Full Time Days | AtlantiCare | Pomona, NJ | $29.60–$41.44/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104093021) |
-| Registered Nurse (RN) Clinic - Internal Medicine | Advocate Health (careers.advocatehealth.org) | Milwaukee, WI | $35.50 - $53.25 | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104092950) |
-| LiveWell Baldwin RN | Advocate Health (careers.advocatehealth.org) | Milledgeville, GA | $35.50 - $53.25 | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104092943) |
-| CNA - Med Surg Part Time Days - AH Union West | Advocate Health (careers.advocatehealth.org) | Matthews, NC | $19.80 - $29.70 | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104092939) |
-| RN, Epilepsy Monitoring Unit | Externalcareers Ohsu | Portland, OR | $55.24 - $92.02 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104091585) |
-| Licensed Practical Nurse (LPN) Multispecialty Advanced Clinical Associate | Inova | Alexandria, VA | $24.17–$39.40/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104090353) |
-| Registered Nurse (RN) Perioperative Liaison | Inova | Alexandria, VA | $93K–$151K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104090343) |
-| RN, Transfer Center Coordinator (Full Time, Night Shift) | Adventist Health | Bakersfield, CA | $61–$83.67/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083736) |
-| RN, Clinical Practice & Education - Clinical Educator | Adventist Health | Willits, CA | $114K–$172K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083732) |
-| RN, Full Time, Days | Adventist Health | Saint Helena, CA | $62.83–$93.28/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083723) |
-| RN - Registered Nurse | Woodmark Pharmacy | Amherst, NY | Up to $46.00 / hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082960) |
-| Registered Nurse | Weill Cornell Medicine | NY | $114K–$131K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082722) |
-| Registered Nurse - Birth Center/Special Care Nursery - RN | Mayo Clinic | Eau Claire, WI | $60 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082585) |
-| Registered Nurse - Emergency Department, Swing - RN | Mayo Clinic | Jacksonville, FL | $72 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082577) |
-| Registered Nurse - Enhanced Critical Care - RN | Mayo Clinic | Rochester, MN | $60 - $72 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082574) |
-| Registered Nurse - ICU - Full Time - Days | Mohawk Valley Health System | NY | $40 - $56 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082360) |
-| Registered Nurse - Emergency Department - Full Time - Nights (1830 - 0700) | Mohawk Valley Health System | NY | $40 - $56 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082359) |
-| Licensed Practical Nurse (LPN)/Licensed Vocational Nurse (LVN) - Rehabilitation | Lifepoint Health Provider Recruitment | Tacoma, WA | $32.00 - $47.10 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104077622) |
-| Nurse Manager- Assisted Living | Carillon Senior Living | Lubbock, TX | $60K–$62K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104077048) |
-| Registered Nurse - Part-Time Evenings | Innovative Renal Care | Auburn, MA | $40 - $52 / hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104076020) |
-| Physician Assistant/Nurse Practitioner | Behavioral Health Group - Bhg | Denver, CO | $125K–$135K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104070353) |
-| Licensed Practical Nurse - LRC | State of Nebraska | Lincoln, NE | $40.00/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104069367) |
-| Certified Nursing Assistant SNF (on- Call) | HumanGood | Oakland, CA | $30.48–$32.53/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104060603) |
-| Charge Nurse RN (Skilled Nursing) - Full Time, Days | HumanGood | Santa Barbara, CA | $55 - $62.50/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104060547) |
-| Registered Nurse- Telehealth Triage-Temporary | Neighborhood Healthcare | Escondido, CA | $ 50.09 to $75.09 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104060166) |
-| Registered Nurse, Radiation Oncology - per diem | Fred Hutch | Seattle, WA | $58.72–$107/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104058977) |
-| Infusion Registered Nurse, General Oncology - Peninsula | Fred Hutch | Poulsbo, WA | $51.06–$93.04/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104058963) |
-| Registered Nurse - NICU | United Health Services | Johnson City, NY | $40.70 - $61.05 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104058375) |
-| Registered Nurse - Oncology - MT5 | United Health Services | Johnson City, NY | $40.70 - $61.05 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104058372) |
-| Staff Nurse - K4 Physical Rehab / 0.8 FTE / Evenings | United Health Services | Binghamton, NY | $40.70 - $61.05 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104058371) |
-| Registered Nurse (RN) - ICU, Full-time, Nights | Samaritan Healthcare | Moses Lake, WA | $42.39–$80.60/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104057890) |
-| Certified Nursing Assistant (CNA) | Grafton | Winchester, VA | $25.72/hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104044896) |
-| PH Nurse 1,2, or 3-Glynn | Georgia Department of Public Health (GA) | Ware County, GA | $69K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104042431) |
-| Registered Nurse/ Licensed Practical Nurse | Aliya Health Group | Elgin, IL | $32.00 - $41.00 Hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104042154) |
-| LPN RN Hospice Admissions Specialist | Kline Galland | Seattle, WA | $40.00 - $60.00 Hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104041084) |
-| Medical Professional, LPN | Octapharma Plasma, Inc. | Providence, RI | $27.28–$36.37/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104041053) |
-| Casual RN/LPN - Psychiatric Mobile Medication Program | Glade Run Lutheran Services | BUTLER HERITAGE WELLNESS CENTER - Butler, PA | $23.91 - $33.70 Hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104040923) |
-| Registered Nurse (RN), Adult Inpatient Behavioral Health, 32 Hours, Day shift | Miravista Behavioral Health Center | Holyoke, MA | $43.33–$59.98/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104154067) |
-| Support Professionals-Adventurous Minds (CNA, Caregivers) | Strive Colorado | CO | $17.85 per hour | - | 2026-11-26 | [View](https://veritahire.com/j/104126866) |
-| Nurse Residency Program: Medical or Surgical Track (Wilmington & Newark) | ChristianaCare | Newark, DE | $39.38/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104124617) |
-| Nurse Residency Program: Progressive Care Track | ChristianaCare | Newark, DE | $39.38/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104124611) |
-| Public Health Nurse - Nurse Family Partnership Program, Kent Public Health Center | King County | Seattle, WA | $43.39–$59.27/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104104688) |
-| Casual Patient Care Technician Opportunities! (NURSING STUDENTS) - UPMC Mercy | UPMC | Pittsburgh, PA | $ 19.8-30.4 USD | - | 2026-11-26 | [View](https://veritahire.com/j/104102887) |
-| Psychiatric Nurse - Perinatal Intensive Outpatient Program | UCLA Health | Los Angeles, CA | $65.76–$97.76/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104087547) |
-| Registered Nurse - CTICU - Regular Time - Days | Mohawk Valley Health System | NY | $40 - $56 per hour | - | 2026-11-26 | [View](https://veritahire.com/j/104082363) |
-| RN New Grad Residency Program February 2027 Med/Surg III North | Finger Lakes Health | Geneva, NY | $41.93/hour | - | 2026-11-26 | [View](https://veritahire.com/j/104057678) |
-| Nurse Practitioner | Harris County | Houston, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104169839) |
-| Nurse Practitioner (NP)/Physician Assistant (PA) - Primary Care - Putnam - Full-time | Mvhc | Zanesville, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104169614) |
-| Licensed Practical Nurse(LPN)/Medical Assistant (MA)/Multi-Skilled Technician (MST) - Podiatry - Zanesville - Full Time | Mvhc | Zanesville, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104169613) |
-| Rehab Nurse Technician-Inpatient Rehab Part Time Days | Northwestern Medicine | Woodstock, IL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104169199) |
-| Registered Nurse Operating Room Ortho Part Time Days | Northwestern Medicine | Palos Heights, IL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104169198) |
-| Registered Nurse PACU Full Time Evenings | Northwestern Medicine | Palos Heights, IL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104169195) |
-| RN - Registered Specialty Nurse - Pediatrics Endocrinology | Geisinger | Wilkes-Barre, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104169097) |
-| RN - Registered Specialty Nurse II - Cardiac Device Clinic | Geisinger | Port Matilda, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104169095) |
-| State Tested Nursing Assistant (STNA)-Restorative Aide Full Time | Certus Healthcare | Zanesville, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168217) |
-| State Tested Nursing Assistant (STNA) Restorative Aide Part Time | Certus Healthcare | Zanesville, OH | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104168216) |
-| RN/LPN Shift Supervisor | Certus Healthcare | Zanesville, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168214) |
-| Advanced Practice Registered Nurse | Orlando Family Physicians | Orlando, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168159) |
-| RN Case Manager* | Moments Hospice | Hiawatha, IA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168145) |
-| Certified Nursing Assistant (CNA)* | Moments Hospice | Dolton, IL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104168128) |
-| Licensed Practical Nurse (LPN) Hospital FT Days 5k Signon | Cone Health | Burlington, NC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104167859) |
-| RN Wesley Long Nurse Manager General Surgery & Orthopedics | Cone Health | Greensboro, NC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104167858) |
-| PRN Home Infusion / IVIG RN | Ais Healthcare | Tucson, AZ | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104164545) |
-| Certified Nursing Assistant (CNA) | Vinfen | Waltham, MA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104164394) |
-| Med Surg Nursing Assistant - Full Time Days - Charlevoix, MI | Munson Healthcare | Charlevoix, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104164382) |
-| Nursing Assistant-PACU | Munson Healthcare | Traverse City, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104164381) |
-| Registered Nurse - OB/Maternity - PRN | Munson Healthcare | Gaylord, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104164376) |
-| Registered Nurse-Med/Surg .75 FTE Weekend Package Nights | Waverly Health Center | Waverly, IA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104164372) |
-| RN Supervisor Part-Time | LCS (Life Care Services) | Raleigh, NC | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104163766) |
-| RN -Ambulatory_ Anesthesia_ Colony Park North | University of Mississippi Medical Center | Jackson, MS | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104152642) |
-| LPN | Alternate Solutions Health Network | Cincinnati, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104152560) |
-| Newborn Nursery Nurse Practitioner- TMC | Tucson Medical Center | Tucson, AZ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104151195) |
-| Registered Nurse (RN) Seasonal - Float Pool | Tucson Medical Center | Tucson, AZ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104151189) |
-| CNA (Senior Mental Health) 12 Hour- Per Diem -Days | Chapman Global Medical Center | Orange, CA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104149104) |
-| RN, Temporary Full Time - Eastwood Senior Living | Minnewaska Community Health Services | Mora, MN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104148676) |
-| Registered Nurse Pediatric Observation | Ascension | Pensacola, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104148502) |
-| Registered Nurse Nursery | Ascension | Murfreesboro, TN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104147365) |
-| Registered Nurse Cardiac Telemetry | Ascension | Murfreesboro, TN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104147283) |
-| Belmond RN Navigator | Iowa Specialty Hospital | Belmond, IA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104144658) |
-| Resident Assistant/CNA - Assisted Living | Morning Pointe Senior Living | Ooltewah, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104143779) |
-| Clinical Infusion Nurse | Think Whole Person Healthcare Aksarben | Omaha, NE | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104143730) |
-| Assistant Nurse Manager - Med/Surg - F/T Nights | Hackensack Meridian Health | Manahawkin, NJ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104143517) |
-| Registered Nurse - Emergency - F/T Day | Hackensack Meridian Health | Borough of Red Bank, NJ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104143457) |
-| Hospice - Clinical Supervisor (RN) | Ml Healthcare | Houston, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104143440) |
-| Registered Nurse (RN) - Hospice | Ml Healthcare | Houston, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104143431) |
-| Registered Nurse - Med/Surg - F/T Nights | Hackensack Meridian Health | Brick, NJ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104143407) |
-| RN-Wound Care-FT, Days (Memorial City) | Memorial Hermann | TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104141100) |
-| LVN Employee Health - Memorial City Med Plaza- FT | Memorial Hermann | TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104141099) |
-| RN - Medical ACE, Nights (Southwest) | Memorial Hermann | TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104141098) |
-| RN, Register Nurse - Acute Care - Flex Pool - FT Days | Brookwood Baptist Health | BIRMINGHAM, AL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104141050) |
-| Rapid Response / Resource Nurse (ICU) | City of Hope | Irvine, CA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104135649) |
-| LVN | Sevita | Austin, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104135085) |
-| Mental Health Psych Nurse Practitioner - Full time Salary | Bartlett Regional Hospital | Juneau, AK | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104131620) |
-| RN Unit Leader | Ohio's Hospice | Columbus, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104130676) |
-| Weekend Nurse Practitioner | HealthDrive | Boston, MA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104129001) |
-| INFUSION NURSE | Healix, LLC | Mansfield, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104128763) |
-| Licensed Practical Nurse- Afternoon/Evenings | Innovive Health | Revere, MA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104126877) |
-| Charge Nurse (Nights) | Western Missouri Medical Center | MO | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104126730) |
-| Restorative CNA | Hutsonwood Health & Housing Solutions | Spring Hill, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104125490) |
-| Nursing Assistant II, Nights, Variable Full Time, Cardiac PCU - Wiregrass Ranch Hospital - Wesley Chapel, FL | Orlando Health | WESLEY CHAPEL, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104124478) |
-| Nursing Assistant II-Multisystem ICU-Part Time (Nights) | Orlando Health | Orlando, FL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104124466) |
-| Certified Nursing Assistant/Medication Aide (CNA & CMA) | Heritage Communities | Kearney, NE | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104123387) |
-| Certified Nursing Assistant - Acute (Full-Time) | Bear Valley Community Hospital | Big Bear Lake, CA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104120727) |
-| Director, Nursing - Women's Services | Wellstar Health System | Marietta, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104117115) |
-| Registered Nurse (RN) - Neonatal Intensive Care Unit - PRN | Wellstar Health System | Austell, GA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104117040) |
-| Registered Nurse (RN) - Acute Care - Medical Dialysis | Wellstar Health System | Austell, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104117008) |
-| Registered Nurse (RN) - PACU (PRN) | Coryell Health | Gatesville, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104116906) |
-| CMA/LPN - WHMG - Urology Department - FULL TIME | Wilson Health | Sidney, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104116736) |
-| CASE MANAGER RN/LPN | Pomerene Hospital | Millersburg, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104116126) |
-| Registered Nurse (RN) / Stepdown / North / Full Time Days | Le Bonheur Children's Hospital | TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104110727) |
-| Registered Nurse (RN) / Radiology / FT Days | Le Bonheur Children's Hospital | TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104110726) |
-| Registered Nurse (RN) / Med Surg / Germantown / Full Time Days | Le Bonheur Children's Hospital | TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104110721) |
-| Registered Nurse 2 Specialty- Plantation | University of Miami School of Education and Human Development | Plantation, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104110021) |
-| Nurse Navigator 1 (HYBRID) | University of Miami School of Education and Human Development | Miami, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104109971) |
-| Registered Nurse, Cardiovascular Intensive Care, Full-time | University of Miami School of Education and Human Development | Miami, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104109944) |
-| Certified Nurse Aide CNA | Buckner Retirement Services | Houston, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104107297) |
-| Registered Nurse - Interventional PCU | Health First | Melbourne, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104106441) |
-| Registered Nurse - MICU | Health First | Melbourne, FL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104106440) |
-| Registered Nurse Home Health PRN Brevard | Calvert Home Health Care | Nashville, TN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104105514) |
-| Full Time Exempt RN Case Manager | Wooster Community Hospital Health System | Wooster, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104105269) |
-| Health Coach - (CMA or LPN) - Primary Care - Monroeville - Full-time | Highmark Health | PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104990) |
-| Regional Anesthesia & Acute Pain Services Registered Nurse-Allegheny General | Highmark Health | PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104987) |
-| RN - CTICU (New Grad) Jefferson | Highmark Health | PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104104985) |
-| Staff Nurse II/III, Practice Plan - Internal Medicine Allergy & Immunology Clinic - TMC | UTHealth Houston (The University of Texas Health Science Center at Houston) | Texas Medical Center-Houston, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104103730) |
-| Licensed Practical Nurse-MHCO-FT-12 | Brethren Retirement Community | Bluffton, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104103153) |
-| Licensed Practical Nurse-BRC-FT-12 | Brethren Retirement Community | Greenville, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104103152) |
-| Certified Nursing Assistant-MMH MC-FT-12 | Brethren Retirement Community | Bluffton, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104103151) |
-| Registered Nurse- Operating Room, Full Time Days | Cape Fear Valley Health | NC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104102551) |
-| Registered Nurse - Critical Care | WellSpan Health | Waynesboro, PA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104101800) |
-| Case Manager RN (Lewisburg) | WellSpan Health | Lewisburg, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104101793) |
-| Certified Sedation Registered Nurse, vascular and vein | Tennessee Oncology | TN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104100388) |
-| RESIDENT CARE MANAGER - RN | PACS | WA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104099781) |
-| RN | PACS | WA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104099779) |
-| Registered Nurse (RN) - Emergency Department - Urbana Hospital - PRN | Bon Secours Mercy Health | Urbana, OH | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104098351) |
-| Registered Nurse (RN) - Labor and Delivery - St. Elizabeth Boardman Hospital | Bon Secours Mercy Health | Boardman, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104098340) |
-| Patient Care Tech - Nursing Pool - Jefferson Avenue Medical Office Building | Bon Secours Mercy Health | Toledo, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104098310) |
-| Regional Occupational Health Nurse Mgr | Wayne-Sanderson Farms | GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104096654) |
-| Registered Nurse- Part Time- Saint Francis | Mercy | AR | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104095723) |
-| Registered Nurse -PRN-Mercy Aurora ER | Mercy | MO | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104095721) |
-| Registered Nurse - Mercy Aurora- OR - Full Time | Mercy | MO | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104095720) |
-| Graduate Nurse Intern, RN - Full Time (Program start February 2027) | Oakbend Medical Center | Richmond, TX | - | Internship | 2026-11-26 | [View](https://veritahire.com/j/104094340) |
-| Nursing Assistant/Patient Care Tech (CNA) - PICU | Nemours | Orlando, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104093121) |
-| RN II Orthopedics | Nemours | Orlando, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104093120) |
-| Patient Intake Coordinator - RN (7P-7A; NIGHTS) | Nemours | Orlando, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104093118) |
-| Nurse (RN) - Capacity Coordination Center | Dartmouth Hitchcock Medical Center and Clinics | Lebanon, NH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104093072) |
-| Nurse (RN) - Capacity Coordination Center, Per Diem | Dartmouth Hitchcock Medical Center and Clinics | Lebanon, NH | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104093062) |
-| Registered Nurse (RN) - Case Manager | Dartmouth Hitchcock Medical Center and Clinics | Lebanon, NH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104093061) |
-| Registered Nurse (RN) - MedSurg/Telemetry (MT3) - Baton Rouge - Days | Ochsner Rush Health | Location: Baton Rouge, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104091627) |
-| License Practical Nurse (LPN) - Med/Surg 3 - Nights | Ochsner Rush Health | Location: Baton Rouge, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104091625) |
-| Registered Nurse (RN) - OR Circulator - The Grove | Ochsner Rush Health | Location: Baton Rouge, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104091622) |
-| Certified Nursing Assistant | Externalcareers Ohsu | Portland, OR | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104091587) |
-| RN, Nurse Navigator | Externalcareers Ohsu | Portland, OR | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104091563) |
-| HomeCare Registered Nurse | Main Line Health | Radnor, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104088451) |
-| Registered Nurse (RN) - Cath Lab | Main Line Health | Bryn Mawr, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104088449) |
-| Registered Nurse - Full Time | Concentra | Las Vegas, NV | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104084328) |
-| Hospice Aide (CNA) | St. Croix Hospice | Newton, IA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083924) |
-| On-Call Registered Nurse (RN) - 7 On / 7 Off | St. Croix Hospice | Storm Lake, IA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083922) |
-| RN Case Manager | St. Croix Hospice | Hudson, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083921) |
-| RN CLINIC - Lake Mills | Fort Healthcare | Lake Mills, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104083830) |
-| Emergency Services Tech I or II (CNA, EMT, LPN, Paramedic) - 0.9 FTE | Fort Healthcare | Fort Atkinson, WI | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104083822) |
-| Nurse Scheduler (CNA) | Journey | Noblesville, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104082947) |
-| Registered Nurse RN New Grad Emergency Ctr | Banner Health | AZ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104081991) |
-| Certified Patient Care Assistant CNA LNA Progressive Care Unit | Banner Health | AZ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104081986) |
-| RN Staff- ICU/CCU, Full-time, Nights, DMH | Huntsville Hospital | Decatur, AL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104081806) |
-| RN Staff- PACU, PRN- Days, DMH | Huntsville Hospital | Decatur, AL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104081784) |
-| CLN RN Clinic - FT - Pediatric Neurology | Huntsville Hospital | Huntsville, AL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104081764) |
-| RN Skilled Nursing & Long Term Care | The Goodman Group | NAPLES, FL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104078936) |
-| Certified Nursing Assistant (PRN/On Call) | The Goodman Group | FLAGSTAFF, AZ | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104078925) |
-| Nurse Technician | Lifepoint Health Provider Recruitment | Lancaster, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104077624) |
-| Registered Nurse (RN) Behavioral Health | Lifepoint Health Provider Recruitment | Raleigh, NC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104077623) |
-| Staff Nurse - Wound Management (Part-Time) | Licking Memorial Health Systems | Newark, OH | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104077519) |
-| Staff Nurse - CCU (Nights) | Licking Memorial Health Systems | Newark, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104077518) |
-| Staff Nurse, RN - Emergency (Nights PART-TIME) 7p-7a - ED | Licking Memorial Health Systems | Newark, OH | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104077517) |
-| Registered Nurse | Best Home Health Providers, Inc | Remote (CA) | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104077486) |
-| Licensed Practical/Vocational Nurse | Best Home Health Providers, Inc | Remote (CA) | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104077371) |
-| RN Staff - Telemetry Medicine B - Day Shift | St. Tammany Health System | Covington, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104076633) |
-| RN Per Diem- Telemetry Medicine B - Night Shift | St. Tammany Health System | Covington, LA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104076632) |
-| Charge Nurse (LVN/RN) | HMG Healthcare | Weatherford, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104075413) |
-| Treatment Nurse - LVN/RN (Weekends 8-5) | HMG Healthcare | Houston, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104075409) |
-| Registered Nurse Cardiovascular Unit Part Time Days | Baptist Health | Louisville, KY | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104075149) |
-| Registered Nurse Cardiovascular Unit Full Time Days | Baptist Health | Louisville, KY | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104075147) |
-| Oncology RN Full Time Nights | Baptist Health | Louisville, KY | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104075137) |
-| Nurse Practitioner/ Physician Assistant | North Country Hospital | Newport, VT | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104073551) |
-| Registered Nurse Day Surgery | Northeastern Vermont Regional Hospital | St. Johnsbury, VT | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104073408) |
-| Family Nurse Practitioner | Mainstreet Family Care | Cherryville, NC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104072160) |
-| CNA/Nursing Assistant (7p-7a) Neuro PCU Acute - Johnson City, TN | Ballad Health | JOHNSON CITY, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104061423) |
-| CNA/Nursing Assistant (7p-7a) 2 West Oncology - Bristol, TN | Ballad Health | BRISTOL, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104061396) |
-| RN - ICU- Internal Agency (7a-7p) Johnson City, TN | Ballad Health | JOHNSON CITY, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104061380) |
-| LVN, On-Call/Per Diem- Assisted Living | HumanGood | Fresno, CA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104060617) |
-| Part TIme Nurse LPN | Community Medical Services | AZ | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104058373) |
-| Nurse Care Manager | Amhc | ME | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104057873) |
-| RN - Operating Room | Baton Rouge Rehabilitation Hospital, LLC | Baton Rouge, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104053866) |
-| Registered Nurse - Primary Care | Saint Luke's Health System | KS | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104052007) |
-| Registered Nurse - Float | Saint Luke's Health System | MO | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104051990) |
-| Registered Nurse PRN | Saint Luke's Health System | MO | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104051988) |
-| Registered Nurse - Medical Surgical | Ssm Health | Madison, WI | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104050308) |
-| RN-Ambulatory Surgery | Ssm Health | Oklahoma City, OK | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104050159) |
-| RN-Clinical Informaticist Associate | Ssm Health | Saint Louis, MO | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104050144) |
-| Registered Nurse RN - Emergency Department - FT 3p-3a | Northeast Georgia Health System | Dahlonega, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104043510) |
-| Registered Nurse RN - Emergency Department - FT Nights | Northeast Georgia Health System | Winder, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104043507) |
-| Registered Nurse RN - General Medical - FT Days | Northeast Georgia Health System | Gainesville, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104043500) |
-| Hospice Resource RN - PM Shift (La Crosse Area) | Agrace | WI - La Crosse, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104040421) |
-| Hospice Resource RN - NOC Shift (La Crosse Area) | Agrace | WI - La Crosse, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104040418) |
-| Open Interviews - Walk in Wednesday! - DECEMBER 2ND! RN's & BHAs NEEDED! Other positions available! | Acadia Healthcare | St. Charles, MO | - | - | 2026-11-26 | [View](https://veritahire.com/j/104169161) |
-| DJJ Staff Nurse - Dalton, GA 40 hrs/week | University System of Georgia (OneUSG Careers - all institutions) | Dalton RYDC, GA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104153850) |
-| DJJ Staff Nurse - Cordele, GA 40 hrs/week | University System of Georgia (OneUSG Careers - all institutions) | Crisp RYDC, GA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104153849) |
-| DJJ Staff Nurse - Claxton, GA 40 hrs/week | University System of Georgia (OneUSG Careers - all institutions) | Claxton RYDC, GA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104153848) |
-| Clinical Nurse III - Med Surg, 5th Floor, Nights | City of Hope | Irvine, CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104135643) |
-| Clinical Nurse III - Med Surg, 5th Floor, Days | City of Hope | Irvine, CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104135642) |
-| Behavioral Health Nurse- Afternoon/Evenings | Innovive Health | Framingham, MA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104126878) |
-| New Graduate Licensed Practical Nurse (Massachusetts) | Innovive Health | MA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104126875) |
-| RN, Multisystem PCU 8A-Orlando Regional Medical Center | Orlando Health | Orlando, FL | - | - | 2026-11-26 | [View](https://veritahire.com/j/104124486) |
-| Certified Nursing Assistant | Memorial Hospital of Converse County | Casper, WY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104124454) |
-| SFSC - Registered Nurse | US Eye | Lady Lake, FL | - | - | 2026-11-26 | [View](https://veritahire.com/j/104119572) |
-| Registered Nurse Homecare (Field Nurse) | Carering Health | CT | - | - | 2026-11-26 | [View](https://veritahire.com/j/104101534) |
-| Registered Nurse Medical Surgical - SURGICAL # 8887 | St. Clair Health | Pittsburgh, PA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104099862) |
-| Coordinator Registered Nurse BONUS ELIGIBLE #8874 | St. Clair Health | Pittsburgh, PA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104099861) |
-| Research Nurse Manager, Intuitional for Translational Science (Galveston) | UTMB Health | Galveston, TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104095614) |
-| Registered Nurse Critical Care Telemetry 4 south | St. John's Riverside Hospital | Yonkers, NY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104093086) |
-| Registered Nurse Med Surg/Emergency Department Float | St. John's Riverside Hospital | Dobbs Ferry, NY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104093085) |
-| Clinical Nurse Associate 4 South Telemetry | St. John's Riverside Hospital | Yonkers, NY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104093084) |
-| Registered Nurse RN Triage Movement Care | Banner Health | AZ | - | - | 2026-11-26 | [View](https://veritahire.com/j/104081947) |
-| Floor Nurse | The Goodman Group | PORTLAND, OR | - | - | 2026-11-26 | [View](https://veritahire.com/j/104078921) |
-| Home Health Registered Nurse RN | PurposeCare | Bolingbrook, IL | - | - | 2026-11-26 | [View](https://veritahire.com/j/104078884) |
-| Nurse Practitioner, Oncology - ProHealth Care - 1.0 FTE | ProHealth Care | Waukesha, WI | - | - | 2026-11-26 | [View](https://veritahire.com/j/104078451) |
-| Health Care RN Cust Care Rep | Alta Resources | Neenah, WI | - | - | 2026-11-26 | [View](https://veritahire.com/j/104074555) |
-| Treatment Nurse - Golden Creek Rehabilitation | Nexion Health | Navasota, TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104073759) |
-| LPN or RN M-F Thibodaux Healthcare & Rehab Center | Nexion Health | Thibodaux, LA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104073749) |
-| ED Certified Nursing Assistant | Bates County Memorial Hospital | Butler, MO | - | - | 2026-11-26 | [View](https://veritahire.com/j/104073445) |
-| Registered Nurse Hospital Supervisor | Northeastern Vermont Regional Hospital | St. Johnsbury, VT | - | - | 2026-11-26 | [View](https://veritahire.com/j/104073406) |
-| Nurse Case Manager - CFHP | University Health | San Antonio, TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104063938) |
-| Wound Care RN | Archcare | Rhinebeck, NY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104060577) |
-| Nurse LPN | Community Medical Services | OR | - | - | 2026-11-26 | [View](https://veritahire.com/j/104058366) |
-| Nurse Manager (RN) Huntington Living Center Unit II | Finger Lakes Health | Waterloo, NY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104057689) |
-| RN Med/Surg 1st Acute Soldiers and Sailors Memorial Hospital Work 36 hours get paid for 40 | Finger Lakes Health | Penn Yan, NY | - | - | 2026-11-26 | [View](https://veritahire.com/j/104057664) |
-| DJJ Staff Nurse - Dalton, GA 40 hrs/week | Augusta University | Augusta, GA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104044782) |
-| DJJ Staff Nurse - Cordele, GA 40 hrs/week | Augusta University | Augusta, GA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104044780) |
-| DJJ Staff Nurse - Claxton, GA 40 hrs/week | Augusta University | Augusta, GA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104044779) |
+| Registered Nurse (RN) Labor & Delivery and High-Risk Perinatal Unit | Inova | Falls Church, VA | $39–$64.25/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105356080) |
+| Registered Nurse (RN) Labor and Delivery- Weekend Premium/Nights | Inova | Falls Church, VA | $39–$64.25/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105356068) |
+| Registered Nurse (RN) Labor and Delivery and HRP-Part-Time/Nights | Inova | Falls Church, VA | $39–$64.25/hr | Part-time | 2026-11-27 | [View](https://veritahire.com/j/105356056) |
+| RN - Neuro Telemetry, Full Time, Night Shift | Adventist Health | Glendale, CA | $54.20–$74.34/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105351887) |
+| Registered Nurse (RN) - PCCU - Days | Norman Regional Health System | Norman, OK | $27.83- $45.46/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105318209) |
+| Registered Nurse (RN) - PCCU - Nights | Norman Regional Health System | Norman, OK | $27.83- $45.46/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105318201) |
+| Registered Nurse (RN) - Intermediate Care Unit (IMC) - Days | Norman Regional Health System | Norman, OK | $27.84-45.46/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105318193) |
+| Registered Nurse Behavioral Health | Ascension (Oracle Recruiting) | Racine, WI | $37.86 - $53.44 an hour | Part-time | 2026-11-27 | [View](https://veritahire.com/j/105289580) |
+| AM Shift CNA - Full Time - LTC | Benedictine | MN | $22.60–$24.96/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105281817) |
+| Certified Medication Aide (MA40)/Certified Nursing Assistants (CNA) - Full Time - Days - Eventide Williamsburg | Eventide Senior Living Communities | Lincoln, NE | $ 19-21.28 per hour | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105280539) |
+| Registered Nurse (RN) - Full Time - Days - Eventide Crete | Eventide Senior Living Communities | Crete, NE | $36-40.32 per hour | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105280536) |
+| Registered Nurse-2 North- Full-Time-Night Shift-7 p-7.30 a -Alternate weekend | NYU Langone Health | Patchogue, NY | $111,727.26-$143,167.26/year | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105277629) |
+| Experienced Clinical Nurse - Lymphoma | MD Anderson Cancer Center | Houston, TX | $32.70/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105174176) |
+| RN - PreOp-PACU - SSRS - Seasonal /Temporary | Scripps Health | San Diego, CA | $59.16-$85.68/hour | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105173198) |
+| RN - Pre-Op/PACU- Carmel Valley | Scripps Health | San Diego, CA | $59.16-$85.68/hour | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105173197) |
+| Licensed Practical Nurse (LPN) Weekends | Centers Health Care | Utica, NY | $31.11–$33.90/hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105120213) |
+| CNA Orthopedics Acute | OSF HealthCare | ROCKFORD, IL | $19.46 - $23.58/hour | Part-time | 2026-11-27 | [View](https://veritahire.com/j/105114486) |
+| Certified Nursing Assistant - Laurel Cove Senior Living FT | Sante Operations LLC | Shoreline, WA | $24.00 /Hr | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105065906) |
+| Licensed Practical Nurse (LPN) | Centers Health Care | Rome, NY | $31.11–$33.90/hr | - | 2026-11-27 | [View](https://veritahire.com/j/105120167) |
+| Certified Nursing Assistant (CNA) | Centers Health Care | Utica, NY | $19.38–$20.91/hr | - | 2026-11-27 | [View](https://veritahire.com/j/105120109) |
+| Part-Time Cath Lab RN | Heart & Vascular Partners | Oklahoma City, OK | - | Part-time | 2026-11-27 | [View](https://veritahire.com/j/105336404) |
+| Registered Nurse (RN) - Hospice - Full Time - York, NE and surrounding areas | Eventide Senior Living Communities | Lincoln, NE | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105280540) |
+| Registered Nurse, PICU, Per Diem (nights) | NYU Langone Health | NY | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105277631) |
+| Registered Nurse, Perelman ED, Per Diem (evenings) | NYU Langone Health | NY | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105277630) |
+| RN Med Surg Days | Baylor Scott & White Health | College Station, TX | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105264805) |
+| RN Med Surg Nights | Baylor Scott & White Health | College Station, TX | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105264546) |
+| Registered Nurse - Surgical Step Down (4 North) - FT 0.9 (72 hrs biweekly) (74998) | Memorial Health System - Ohio | Marietta, OH | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105195633) |
+| RN - Emergency Room (ER) (Travel) | Medasource | Kansas City, MO | - | Contract | 2026-11-27 | [View](https://veritahire.com/j/105108454) |
+| RN - Labor and Delivery (L&D) (Travel) | Medasource | Dickson, TN | - | Contract | 2026-11-27 | [View](https://veritahire.com/j/105108446) |
+| RN - Rehabilitation (Travel) | Medasource | North Richland Hills, TX | - | Contract | 2026-11-27 | [View](https://veritahire.com/j/105108443) |
+| Registered Nurse (RN) - Neurology | Hartford HealthCare | Westport, CT | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105069055) |
+| CNA Resident Care Associate - Assisted Living | Hartford HealthCare | Plantsville, CT | - | Part-time | 2026-11-27 | [View](https://veritahire.com/j/105069054) |
+| Care Transition Nurse (RN) - Center For Healthy Aging & Good Life | Hartford HealthCare | Southington, CT | - | Full-time | 2026-11-27 | [View](https://veritahire.com/j/105069044) |
+| RN Wound Care Pain Mgmt Coordinator | CommonSpirit Health | Los Angeles, CA | $58.94 - $89.62 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/105046336) |
+| Nurse Navigator (NN) - Oncology Infusion Clinic | Advocate Health | Park Ridge, IL | $35.50–$53.25/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/105033021) |
+| Psychiatric Care Registered Nurse - Sioux Falls, SD | Quick2hire | Sioux Falls, SD | $56 - $64 per hour | Contract | 2026-11-26 | [View](https://veritahire.com/j/105018618) |
+| Assistant Nurse Manager WOW | AdventHealth (jobs.adventhealth.com) | Riverview, FL | $34.32–$63.84/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104996272) |
+| RN Nursing Supervisor | National Health Care Associates | North Haven, CT | Starting from USD $57.00/Hr. | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104968365) |
+| Assistant Nurse Manager WOW | AdventHealth | Riverview, FL | $34.32–$63.84/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104924276) |
+| Medical Assistant/Nurse LPN - Primary Care | Ssi (us) Inc | Columbia, MO | $22.98 - $29.37 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104918508) |
+| Nurse LPN or RN - Behavioral Health | Ssi (us) Inc | Columbia, MO | $29.37 - $36.0 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104918503) |
+| Examiner Nurse Practitioner | Loyal Source Government Services | Chicago West, IL | $147,784 - $177,784 / year | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104915366) |
+| Licensed Practical Nurse (LPN) | Rite of Passage | Tampa, FL | $28.00 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104913108) |
+| RN HOPS - Bronchoscopy Suite | Cleveland Clinic | Cleveland, OH | $35.50/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104846193) |
+| RN Operating Room | Allina Health | MN | $44.64 to $74.33 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104802867) |
+| RN Medical Surgical | Allina Health | MN | $44.64 to $74.33 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104802866) |
+| RN Emergency Department | Allina Health | MN | $44.64 to $74.33 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104802865) |
+| Associate Certified Nursing Assistant - IP Rehab | Providence Health & Services | Spokane, WA | $17.97 - $26.92 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104772051) |
+| Acute Care RN - Float Pool | Providence Health & Services | Spokane, WA | $41.74 - $61.16 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104772044) |
+| Licensed Practical Nurse | Sevita | Pensacola, FL | $29/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104768087) |
+| ED Registered Nurse NOC Shift | Stanford Health Care Tri-Valley | CA | $80.02 - $98.39 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104735461) |
+| ED Registered Nurse NOC Shift 1900-0730 | Stanford Health Care Tri-Valley | CA | $80.02 - $98.39 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104735458) |
+| ED Registered Nurse II - Eve 1500-0330 | Stanford Health Care Tri-Valley | CA | $80.02 - $98.39 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104735457) |
+| CNA, PRN | PACS | SC | $16-$19/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104734650) |
+| RN, Med/Surg | Shore Medical Center | Somers Point, NJ | $68.50 hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104734620) |
+| RN, Medical Oncology | Shore Medical Center | Somers Point, NJ | $42.78 - $57.02 hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104734618) |
+| RN, M/S Admission/Discharge | Shore Medical Center | Somers Point, NJ | $42.78 - $57.02 hourly | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104734617) |
+| Travel Registered Nurse, RN, Emergency Department | Trinity Health | IA | $140K | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104730977) |
+| Travel Registered Nurse, RN, Operating Room | Trinity Health | IA | $131K | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104730975) |
+| Certified Nursing Assistant, Night Shift, Full-time | Adventist Health | Saint Helena, CA | $25.13–$32.30/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104723500) |
+| RN, Oncology (Outpatient), Day Shift, Part-time | Adventist Health | Saint Helena, CA | $61–$90.57/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104723498) |
+| CNA - FT Days Brain Injury Services | Hit, Inc. | Dakota Alpha - Mandan, ND | $22.00 - $26.00 Hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104666878) |
+| Registered Nurse, Full-Time | Ecumen | Apple Valley, MN | $40 to $45 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104660278) |
+| Psychiatric Nurse (Overnight) | Devereux Advanced Behavioral Health | Scottsdale, AZ | $38.00 - $41.80/hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104659446) |
+| Registered Nurse Ortho | Ascension (Oracle Recruiting) | Mount Pleasant, WI | $37.86 - $53.44 an hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104647028) |
+| Clinical Nurse II - Emergency Room - Sharp Tri City - Nights - Full-time - May be eligible for up to 12.5k in New Hire Incentives | Sharp Healthcare | CA | $61/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104644970) |
+| Clinical Nurse - RN - PCU Oncology 5T - Sharp Cula Vista - Night Shift - Full Time - May be eligible for New Hire Relocation Assistance | Sharp Healthcare | Chula Vista, CA | $64.21/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104644966) |
+| Clinical Nurse - RN - PCU Oncology 5T - Sharp Chula Vista - Night Shift - Full Time - May be eligible for New Hire Relocation Assistance | Sharp Healthcare | Chula Vista, CA | $64.21/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104644962) |
+| Registered Nurse Case Manager (RN) | Bristol Hospice | Kalamazoo, MI | $65,000-$73,000 annually | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104566979) |
+| Certified Nursing Assistant (CNA) | Bristol Hospice | Clackamas, OR | $24-26/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104566975) |
+| Staff Nurse II - Emergency | Salinas Valley Health | Salinas, CA | $73.62–$89.49/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104549887) |
+| Youth ACT Registered Nurse | Radias Health | Saint Paul, MN | $90K–$97K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104533015) |
+| Registered Nurse | Radias Health | Anoka, MN | $93K–$103K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104533006) |
+| OR / RN / 13-Week Travel Contract - Memphis, TN | Ghr Healthcare | Memphis, TN | $2170 - $2290 per week | Contract | 2026-11-26 | [View](https://veritahire.com/j/104531393) |
+| L&D / RN / 13-Week Travel Contract - Fort Collins, CO | Ghr Healthcare | Fort Collins, CO | $2250 - $2370 per week | Contract | 2026-11-26 | [View](https://veritahire.com/j/104531391) |
+| ER / RN / 13-Week Travel Contract - Urbana, IL | Ghr Healthcare | Urbana, IL | $2000 - $2100 per week | Contract | 2026-11-26 | [View](https://veritahire.com/j/104531386) |
+| Clinical Nurse Residency Program- Leukemia | MD Anderson Cancer Center | Houston, TX | $32.70/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104518451) |
+| Experienced Clinical Nurse - G10E Gynecologic/Radiation | MD Anderson Cancer Center | Houston, TX | $32.70/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104518444) |
+| RN Clinic - Per Diem - Radiology - La Jolla | Scripps Health | La Jolla, CA | $51.66-$74.92/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104517484) |
+| Registered Nurse - Residency Program | BAYADA Home Health Care | Seaford, DE | $30/hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104425524) |
+| Registered Nurse 12 hour Day Shift | Legacy Healthcare | Watertown, SD | $30/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104420948) |
+| Interventional Pain Care RN | CommonSpirit Health | Tacoma, WA | $49.77 - $94.04 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104404029) |
+| Nurse Emergency | CommonSpirit Health | Henderson, NV | $51.71 - $71.72 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104404025) |
+| Clinical Nurse / Outpatient Infusion / Bergen | Memorial Sloan Kettering Cancer Center | Bergen, NJ | $113K–$225K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104403183) |
+| Registered Nurse (RN) - Adolescent Med Psychiatric Care Unit, Night Shift, (.30 FTE) | D-h Nursing | Lebanon, NH | $41/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104396734) |
+| Registered Nurse (RN)- Emergency, Nights | D-h Nursing | Bennington, VT | $35–$50/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104396733) |
+| Registered Nurse (RN)- Oncology Associates, Per Diem | D-h Nursing | Bennington, VT | $35–$50/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104396732) |
+| Licensed Practical Nurse-LPN-Mason Pointe-FT-Days | Evertrue | Chesterfield, MO | $23.55–$37.75/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104395847) |
+| Registered Nurse (RN) | Franciscan Ministries | Lindenhurst, IL | $35.00/Hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104395807) |
+| Travel RN MedSurg - Reading, PA - $1735 Est. Wkly | Armstaffing | Reading, PA | $1735.8 per week | Contract | 2026-11-26 | [View](https://veritahire.com/j/104395717) |
+| Travel RN PCU - Camden, NJ - $2509 Est. Wkly | Armstaffing | Camden, NJ | $2509.8 per week | Contract | 2026-11-26 | [View](https://veritahire.com/j/104395710) |
+| Travel RN TELE - Erie, PA - $2177 Est. Wkly | Armstaffing | Erie, PA | $2177.8 per week | Contract | 2026-11-26 | [View](https://veritahire.com/j/104395700) |
+| Same Day Surgery RN- No Weekends/No Holidays | Advocate Health | WI | $38.20–$57.30/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104381871) |
+| Registered Nurse (RN) - Medical Telemetry Observation | Advocate Health | WI | $38.20–$57.30/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104381816) |
+| Clinical Nurse-Med-Surge--Stepdown-10W-Mount Sinai Hospital-FT/Nights | Mount Sinai Health System | NY | $64.85/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104381647) |
+| Clinical Nurse-Med-Surge-Stepdown-10W-Mount Sinai Hospital-FT/Nights | Mount Sinai Health System | NY | $64.85/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104381646) |
+| Staff Nurse - Medical Oncology - Mount Sinai Hospital - Full Time Nights | Mount Sinai Health System | NY | $64.85/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104381645) |
+| RN - OR | Richmond University Medical Center | NY | $59.14/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104374554) |
+| RN - Med/Surg (SLB6) | Richmond University Medical Center | NY | $59.14/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104374553) |
+| RN ASC OR First Hill Surgery Center | Quick2hire | Seattle, WA | $29 - $52 per hour | Contract | 2026-11-26 | [View](https://veritahire.com/j/104374055) |
+| Health and Wellness Director - LPN/RN | Quick2hire | Bellevue, WA | $124000 - $128000 per year | Contract | 2026-11-26 | [View](https://veritahire.com/j/104374053) |
+| Nurse Tech - Capital Region ER PRN | University of Missouri Health Care | Jefferson City, MO | $16.95 per hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104371622) |
+| Registered Nurse ED Full Time Midshift | AdventHealth (jobs.adventhealth.com) | Castle Rock, CO | $34.60–$59.83/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104339704) |
+| ER Urgent Care Registered Nurse Full Time Nights | AdventHealth (jobs.adventhealth.com) | Denver, CO | $34.60–$59.83/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104339703) |
+| 24/hr Night Temporary Seasonal Emergency Department RN-OC Irvine Medical Center | Kaiser Permanente | Irvine, CA | $74.50–$78.97/hr | Contract | 2026-11-26 | [View](https://veritahire.com/j/104334594) |
+| LVN - Garfield - Dermatology - FT (40) - 6:30 AM - 5:30 PM | Kaiser Permanente | San Diego, CA | $37.13–$40.45/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334592) |
+| LVN I Bilingual Spanish - Cudahy - Family Medicine - Temporary Full Time Days | Kaiser Permanente | Cudahy, CA | $38.80–$43/hr | Contract | 2026-11-26 | [View](https://veritahire.com/j/104334591) |
+| LVN, TCI Specialty Center - FT/Days (8hrs) | MemorialCare | Long Beach, CA | $33.16–$48.08/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334556) |
+| Manager, RN - Emergency Services | MemorialCare | Long Beach, CA | $167,648.00/yr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334549) |
+| Staff Nurse II, Infusion | Sutter Health | CA | $78.31 to $103.71 / hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104334543) |
+| Inpatient Nursing Manager, Behavioral Health | Sutter Health | CA | $227K–$364K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334529) |
+| Registered Nurse Navigator Oncology Clinic | Sutter Health | CA | $82.48 to $115.46 / hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104334527) |
+| RN - Post Anesthesia Care DHS | MultiCare | WA | $43.85–$80.58/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334348) |
+| Registered Nurse (RN) - Off Campus Emergency Department - Federal Way | MultiCare | WA | $48.15–$90.83/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104334327) |
+| Night Shift Per Diem Registered Nurse (RN) - Off Campus Emergency Department - Lacey | MultiCare | WA | $48.09–$93.38/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104334326) |
+| Radiology Nurse | SUNY Upstate Medical University | Syracuse, NY | $30.50–$49.49/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104325796) |
+| Part-time RN Clinical Supervisor | Chapa-de Indian Health | Auburn, CA | $52.65 - $60 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104325604) |
+| Registered Nurse (RN) / Behavioral Health Clinic / PRN | Avera | Yankton, SD | $29.50–$44.25/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104324788) |
+| Registered Nurse (RN) / Oncology - Chemo | Avera | Yankton, SD | $31.50–$47.25/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104324787) |
+| Wellness Nurse, LVN | Oakmont Senior Living | Valencia, CA | $30.00 to $32.00 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104315595) |
+| Nurse Supervisor | Mountainside | CT | $110,000 - $120,000 per year | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104285426) |
+| Nurse Manager | Mountainside | CT | $125,000 - $135,000 per year | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104285423) |
+| LVN Clinical Intake & Scheduling Coordinator | GrandCare Home Health West | Remote (GA) | $20-$22/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104285414) |
+| Registered Nurse, Labor and Delivery, Transition Nurse, $25,000 Bonus, FT, 6:30P-7A, Specialized | Baptist Health | Boca Raton, FL | $39.65 - $51.15/hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104285180) |
+| Clinical Partner CNA, NICU, $4,000 Bonus, Bethesda East, FT, 7P-7:30A | Baptist Health | Boynton Beach, FL | $17.11–$23.60/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104285169) |
+| Pool Registered Nurse, Emergency Department, Bethesda East, Per Diem, 7P-7:30A, Specialized | Baptist Health | Boynton Beach, FL | $50/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104285136) |
+| Clinical Care Technician (36 hrs/week, CCT, Nurse Assistant, CNA) - Adult Medical/Surgical Float Pool | Tufts Medicine | Boston, MA | $20.12–$25.15/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104283142) |
+| LPN Med Care Manager | Sunrise Senior Living | Plainview, NY | $32.45–$43.30/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104278405) |
+| Medical Assistant, CMA or LPN, Ambulatory - Cardiology | Sanford Health | WI | $19–$29.50/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104274767) |
+| RN Inpatient (Nights) - Emergency Department | Sanford Health | ND | $33–$48/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104274760) |
+| Home Health Registered Nurse | CenterWell (Humana) | Silverdale, WA | $92,600 - $127,400 per year | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104273909) |
+| Certified Nursing Assistant - FT - Night | Ethica | Heritage Oaks - St. Simons Island, GA | $17.63 to $18.68/hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104272479) |
+| RN Internal Traveler - Emergency Department | Boulder Community Health | Boulder, CO | $80/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104272412) |
+| Registered Nurse for 3 Telemetry with Sign On | Musc Health | SC | $30K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104269599) |
+| School Nurse - RN | Ro Health | Lombard, IL | $42 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104261864) |
+| RN -Registered Nurse - Corrections | Ro Health | Tacoma, WA | $75 per hour | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104261862) |
+| Registered Nurse Neurology Clinic | AdventHealth | IL | $31.91–$51.06/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104257492) |
+| NURSE SURVEYOR | State of California | CA | $89,160 - $117,084/yr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104246845) |
+| SUPERVISING REGISTERED NURSE II, CORRECTIONAL FACILITY | State of California | CA | $153,516 - $192,132/yr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104243123) |
+| REGISTERED NURSE, CORRECTIONAL FACILITY | State of California | CA | $132,084 - $157,464/yr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104243121) |
+| Licensed Practical Nurse (LPN) - Home Health / 1:1 Patient Care & Flexible Hours / Shoreline | Generation Solutions | CT | $42.00/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104239201) |
+| Licensed Practical Nurse (LPN) - Home Health / 1:1 Patient Care & Flexible Hours / Litchfield County | Generation Solutions | Litchfield, CT | $42.00/hour | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104239200) |
+| RN - Thoracic Surgery | Independence Health System | Latrobe, PA | $40/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104236777) |
+| Clinical Nursing Adjunct | Arizona College of Nursing | Greenville, SC | $55/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104235854) |
+| RN Director of Mental Health Program | Psychiatric Medical Care | Sheridan, MI | $85,000 / year | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104235826) |
+| Registered Nurse (RN) - Pediatric Med/Surg Float - 24, 30 or 36 hours | Boston Children's Hospital | Boston, MA | $76003.20-$163678.32 Annual | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104235805) |
+| Registered Nurse - Bay Area, CA (Temporary) | Planned Parenthood Northern California | Santa Rosa, CA | $53.00 -$63.33 per hour | Contract | 2026-11-26 | [View](https://veritahire.com/j/104235393) |
+| APP - Nurse Practitioner / Physician Assistant - Float | New York Health | Ridge, NY | $160K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104229754) |
+| Resident Care Manager (LPN or RN) | Kisco Senior Living | Brookline, MA | $80,000-85,000/yr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104226150) |
+| MedTech (with CNA or PCA) - 1st or 2nd Shift, Part Time EOW | Kisco Senior Living | Greensboro, NC | $18.50-19/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104226138) |
+| Caregiver (CNA Required, 3pm-11pm, Full Time) | Kisco Senior Living | DC | $20.00- $24/hr | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104226137) |
+| RN Care Manager, LTSS (Fall River, MA) | Molina Healthcare | New Bedford, MA | $30.37 - $59.21 Hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104222799) |
+| RN Care Manager, LTSS (Waltham, MA) | Molina Healthcare | Waltham, MA | $30.37 - $59.21 Hourly | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104222797) |
+| Nurse Manager - Emergency Department | Cleveland Clinic | Garfield Heights, OH | $102K | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104213841) |
+| Nurse Practitioner Part-time | Wellpath | High Point, NC | $68.40–$76/hr | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104213811) |
+| Registered Nurse (RN) - Child Adolescent Psychiatry Services, San Diego, CA | Rady Children's Hospital Auxiliary | San Diego, CA | $64.39–$85.17/hr | - | 2026-11-26 | [View](https://veritahire.com/j/105027454) |
+| Registered Nurse (RN) - Neonatal ICU (NICU), San Diego, CA | Rady Children's Hospital Auxiliary | San Diego, CA | $64.39–$85.17/hr | - | 2026-11-26 | [View](https://veritahire.com/j/105027255) |
+| Registered Nurse (RN) - Critical Care (PICU), San Diego, CA | Rady Children's Hospital Auxiliary | San Diego, CA | $64.39–$92.09/hr | - | 2026-11-26 | [View](https://veritahire.com/j/105027237) |
+| HEDIS Clinical Review Nurse, LVN (Short Term) | Iehp | CA | $64K | - | 2026-11-26 | [View](https://veritahire.com/j/104880157) |
+| Registered Nurse, Clinical Care Leader - Dickinson | Sanford Health | Dickinson, ND | $33.50–$48/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104814522) |
+| RN - Emergency Department, 12 hour Night shifts (JHH) | Johns Hopkins Medicine | Baltimore, MD | $39.64/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104589980) |
+| Registered Nurse III - Pulmonology Biologics (30 hrs) | Johns Hopkins Medicine | St. Petersburg, FL | $38.34/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104589978) |
+| Registered Nurse (RN) - Cath Lab | Riddle Hospital | Bryn Mawr, PA | $44.92–$70.08/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104508116) |
+| Registered Nurse (RN) - Surgical Trauma Stepdown | Riddle Hospital | Wynnewood, PA | $44.92–$70.08/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104508113) |
+| Registered Nurse (RN) - Endoscopy | Riddle Hospital | Bryn Mawr, PA | $44.92–$70.08/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104508112) |
+| RN - Weekend Team | BAYADA Home Health Care | Felton, DE | $43 hourly | - | 2026-11-26 | [View](https://veritahire.com/j/104425528) |
+| RN - Night Shift | BAYADA Home Health Care | Georgetown, DE | $35-$43 per hour | - | 2026-11-26 | [View](https://veritahire.com/j/104425526) |
+| COMMUNITY HEALTH NURSE PROGRAM SUPERVISOR (REPRODUCTIVE HEALTH SUPERVISOR) | State of Maryland | Westminster, MD | $93,138.00/ year | - | 2026-11-26 | [View](https://veritahire.com/j/104424207) |
+| Certified Nursing Assistant (CNA) | Franciscan Ministries | Lindenhurst, IL | $22/hour | - | 2026-11-26 | [View](https://veritahire.com/j/104395796) |
+| NURSE COORDINATOR II - EMERGENCY SERVICES NURSING | Cook County Health | Chicago, IL | $134,588 - $145,769 | - | 2026-11-26 | [View](https://veritahire.com/j/104261749) |
+| RN - ICU | Cynet Health | Joliet, IL | $72.03 per hour | - | 2026-11-26 | [View](https://veritahire.com/j/104261677) |
+| RN - MS | Cynet Health | Grand Rapids, MI | $65.89 per hour | - | 2026-11-26 | [View](https://veritahire.com/j/104261674) |
+| RN - PCU | Cynet Health | Dallas, TX | $48.07 per hour | - | 2026-11-26 | [View](https://veritahire.com/j/104261670) |
+| RN-Primary Care Clinic | Buchanan County Health Center | Independence, IA | $26.55–$37.18/hr | - | 2026-11-26 | [View](https://veritahire.com/j/104238731) |
+| LPN RN RL402 | People Incorporated | Somerset, MA | $36.50 / Hour | - | 2026-11-26 | [View](https://veritahire.com/j/104234429) |
+| CNA RC455 | People Incorporated | Berkley, MA | $23.25 Hourly | - | 2026-11-26 | [View](https://veritahire.com/j/104234428) |
+| CNA Certified Nursing Assistant | Perimeter Healthcare - Integrated Behavioral Health | Saint Robert, MO | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104985544) |
+| Registered Nurse - RN - SICU - Nights | Froedtert Health | MILWAUKEE, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104950455) |
+| REGISTERED NURSE RN - FH/LABOR & DELIVERY - DAYS | Froedtert Health | MILWAUKEE, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104950432) |
+| REGISTERED NURSE RN AMBULATORY SVCS, FHHI - HOME INFUSION - DAYS | Froedtert Health | OAK CREEK, WI | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104950325) |
+| Registered Nurse - West Des Moines, IA | Cell Staff | West Des Moines, IA | - | Contract | 2026-11-26 | [View](https://veritahire.com/j/104946909) |
+| RN Skin & Integrity | Corewell Health | Stevensville, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104910034) |
+| RN Emergency Department PRN | Corewell Health | Niles, MI | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104910031) |
+| RN Emergency Department | Corewell Health | St Joseph, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104910028) |
+| Clare Bridge Caregiver CNA/HCA | Brookdale Senior Living | Spokane, WA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104891563) |
+| Graduate Nurse - ED | MyMichigan Health | Sault Ste. Marie, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104882088) |
+| Graduate Nurse - Med/Surg | MyMichigan Health | Sault Ste. Marie, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104882083) |
+| Grad Nurse - Med/Surg | MyMichigan Health | Sault Ste. Marie, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104882075) |
+| Treatment Nurse | Regency Integrated Health Services, LLC | Smithville, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104880456) |
+| Registered Nurse (RN) PRN | Wellpath | Eugene, OR | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104845411) |
+| LPN - Care Nurse Supervisor Traditional - Full Time | Meadow Ridge | Roseland, NJ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104830994) |
+| RN, Operating Room 6:30a-7p, *Call Required* | Norton Healthcare | Louisville, KY | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104830821) |
+| RN, Operating Room 6:30a-3p, *Call Required* | Norton Healthcare | Louisville, KY | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104830820) |
+| Territory Clinical Manager (RN) - Home Health | AccentCare | Sugarland, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104821073) |
+| Clinical Nurse II-Float Pool Orange and Irvine-FT Night Shift | University of California, Irvine | Orange, CA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104801215) |
+| Registered Nurse Ortho | Ascension | Racine, WI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104778392) |
+| Registered Nurse - Interventional Radiology - F/T Days | Hackensack Meridian Health | Borough of Neptune City, NJ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104775343) |
+| Registered Nurse - Maternity Outpatient Triage - F/T Nights | Hackensack Meridian Health | Borough of Neptune City, NJ | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104775342) |
+| Registered Nurse - Mental Health Inpatient Unit - P/T with Benefits Nights | Hackensack Meridian Health | Borough of Neptune City, NJ | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104775341) |
+| Clinical Nurse III - ETC | City of Hope | Duarte, CA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104768666) |
+| Registered Nurse (RN) | PACS | TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104734666) |
+| Transfer Center RN Nights | Trinity Health | Boise, ID | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104730978) |
+| Registered Nurse (RN) - ICU | Main Line Health | Media, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104726657) |
+| Registered Nurse (RN) - Surgical Trauma Stepdown | Main Line Health | Wynnewood, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104726656) |
+| Registered Nurse (RN) - Endoscopy | Main Line Health | Bryn Mawr, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104726655) |
+| Nurse Tech, ED - North | Hendrick Health | Abilene, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104661338) |
+| RN-PACU GI Center | Hendrick Health | Abilene, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104661332) |
+| Nurse Tech, 4E Gen Surg - Med/Surg - South | Hendrick Health | Abilene, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104661326) |
+| RN Med Surg FT Days Sign on Bonus | Baylor Scott & White Health | Mckinney, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104598020) |
+| Registered Nurse - RN | American Senior Communities | Indianapolis, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104521851) |
+| Licensed Practical Nurse - LPN | American Senior Communities | Indianapolis, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104521833) |
+| Certified Nursing Aide CNA | American Senior Communities | Indianapolis, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104521827) |
+| Outpatient Registered Nurse - RN | Fresenius Medical Care | Crawfordsville, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104519348) |
+| Registered Nurse- Orthopedics | Dermatology Times | Munster, IN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104513283) |
+| Nurse Practitioner - Weight Management | Dermatology Times | Munster, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104513267) |
+| Psychiatric Mental Health Nurse Practitioner - Maryland | Dermatology Times | Silver Spring, MD | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104513239) |
+| CV ICU Registered Nurse - ICU / CVICU (4 West) - FT 0.9 (72 hrs biweekly) (74928) | Memorial Health System - Ohio | Marietta, OH | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104509954) |
+| Registered Nurse, Hospital Clinic - Inpatient Wound Care - PRN 0.3 (as scheduled) (74906) | Memorial Health System - Ohio | Marietta, OH | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104509949) |
+| Certified Nursing Assistant (CNA) (61158) | Simpson Senior Services | Simpson House - Philadelphia, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104459571) |
+| RN Clinical Team Leader - Emergency Department - Days | Methodist Health System | Dallas, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104454885) |
+| BH Registered Nurse - Emergency Department - Nights $15K Sign-on Bonus | Methodist Health System | Dallas, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104454877) |
+| Registered Nurse - Nights - Neonatal Intensive Care (NICU) | Methodist Health System | Mansfield, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104454874) |
+| RN Registered Nurse | Florida Cancer Specialists & Research Institute | Lake Mary, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104437014) |
+| CNA | Reliant Care Management | Raytown, MO | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104421509) |
+| LPN | Reliant Care Management | New Orleans, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104421508) |
+| Registered Nurse (RN) / Licensed Practical Nurse (LPN) - Medical Surgical - Full-Time Nights | Beacon Health System (Memorial Hospital of South Bend) | Elkhart, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104417109) |
+| Registered Nurse (RN) / Licensed Practical Nurse (LPN) - Medical Surgical - Part-Time Nights | Beacon Health System (Memorial Hospital of South Bend) | Elkhart, IN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104417095) |
+| RN Surgical Specialty KAL | Beacon Health System (Memorial Hospital of South Bend) | Kalamazoo, MI | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104417084) |
+| UT Health ET Home Health Field LVN (Gilmer/Avinger) | Choice Health At Home | Longview, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104413078) |
+| Home Health Field LVN/LPN | Choice Health At Home | San Antonio, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104413072) |
+| Hospice Field LPN PRN | Choice Health At Home | Overland Park, KS | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104413063) |
+| Registered Nurse Weekend Supervisor | PruittHealth | Farmville, NC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104412954) |
+| Registered Nurse- Part Time | PruittHealth | Carrollton, GA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104412699) |
+| Certified Nursing Assistant | PruittHealth | Moncks Corner, SC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104412671) |
+| Licensed Vocational Nurse (LVN) - PRN/Per visit - Home Health | Frontpoint Health | Central Dallas, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104397866) |
+| Medical Staff Associate - LPN or LVN or Paramedic or Advanced EMT | CSL | Gulfport, MS | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104366820) |
+| Registered Nurse (RN) / General Stepdown / Germantown / Full Time Nights | Methodist Le Bonheur Healthcare | Shelby, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104360519) |
+| Registered Nurse (RN) / Med Surg / Germantown / Full Time Days | Methodist Le Bonheur Healthcare | Shelby, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104360518) |
+| Registered Nurse (RN) / Med Surg / Germantown / Full Time Nights | Methodist Le Bonheur Healthcare | Shelby, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104360508) |
+| Licensed Vocational Nurse (LVN) - Cardiac Rehab | MemorialCare | Fountain Valley, CA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334550) |
+| Registered Nurse | Lehigh Valley Health Network | Stroudsburg, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334116) |
+| Licensed Practical Nurse - Physician Practice | Lehigh Valley Health Network | Hazle Township, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334112) |
+| Clinical Coordinator RN - Physician Practice | Lehigh Valley Health Network | East Stroudsburg, PA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104334106) |
+| Registered Nurse Perianesthesia | Riverview Health | Noblesville, IN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104329338) |
+| RN Catheterization Lab | Riverview Health | Noblesville, IN | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104329337) |
+| Registered Nurse (RN)- Pediatric Intensive Care Unit (PICU)- Full Time, Night Shift | Children's Healthcare of Atlanta | Atlanta, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104324782) |
+| Registered Nurse (RN)- Cardiac Acute Care Unit- Full Time, Day Shift, Weekends | Children's Healthcare of Atlanta | Atlanta, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104324781) |
+| CSO Float Registered Nurse (RN)- Intensive Care Unit- Full Time or Part Time, Day Shift | Children's Healthcare of Atlanta | Atlanta, GA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104324779) |
+| LPN - (Saturdays Only) | Active Day | West Columbia, SC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104315612) |
+| Wellness Nurse - Full-Time | Spectrum Retirement Communities, LLC | Algonquin, IL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104311165) |
+| Registered Nurse | Wexford Health Sources | St. Marys, WV | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104290425) |
+| Licensed Practical Nurse | Wexford Health Sources | Beaver, WV | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104290406) |
+| Registered Nurse | Regional West Health Services | SCOTTSBLUFF, NE | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104288421) |
+| Clinical Resource Nurse | Regional West Health Services | SCOTTSBLUFF, NE | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104288417) |
+| Registered Nurse - Santa Monica, CA | Cell Staff | Santa Monica, CA | - | Contract | 2026-11-26 | [View](https://veritahire.com/j/104288155) |
+| LVN Care Coordinator | Los Angeles Lgbt Center | Los Angeles, CA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104270918) |
+| Registered Nurse II - Radiology | Musc Health | SC | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104269598) |
+| Nurse Practitioner | Illinois Bone & Joint Institute | IL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104247815) |
+| CNA | Brookdale Senior Living | Orland Park, IL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104239647) |
+| Registered Nurse (RN)- Emergency, Nights | Southwestern Vermont Medical Center | Bennington, VT | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104238725) |
+| Registered Nurse (RN)- Oncology Associates, Per Diem | Southwestern Vermont Medical Center | Bennington, VT | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104238724) |
+| LPN, Licensed Practical Nurse Clinic Lead - Alexandria Primary Family Med | CHRISTUS Health | Alexandria, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104237715) |
+| RN, Registered Nurse - General Surgery | CHRISTUS Health | Beaumont, TX | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104237714) |
+| RN Registered Nurse Inpatient - Endoscopy | Penn State Health | Enola, PA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104237573) |
+| RN Inpatient Float - Nurse Admin Res Mgmt Ctr | Penn State Health | Enola, PA | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104237572) |
+| Registered Nurse/RN | Rcm Engineering Group | Los Angeles, CA | - | Contract | 2026-11-26 | [View](https://veritahire.com/j/104237557) |
+| Registered Nurse | Regency Integrated Health Services, LLC | Corpus Christi, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104235898) |
+| Licensed Vocational Nurse | Regency Integrated Health Services, LLC | Corpus Christi, TX | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104235896) |
+| New Graduate RN Nights | Community Health Systems | Jefferson City, TN | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104235448) |
+| PACU RN | Community Health Systems | Foley, AL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104235443) |
+| PRN Surgery LPN | Community Health Systems | Enterprise, AL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104235439) |
+| GNA - Geriatric Nursing Assistant | TidalHealth | Crisfield, MD | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104234862) |
+| License Practical Nurse The Maples | Beacon Behavioral Hospital | Hammond, LA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104233507) |
+| RN ICU | Pioneers Memorial Healthcare District | Brawley, CA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104232969) |
+| Nurse Intern LDRP (OB) | Pioneers Memorial Healthcare District | Brawley, CA | - | Internship | 2026-11-26 | [View](https://veritahire.com/j/104232968) |
+| Nurse Intern ER | Pioneers Memorial Healthcare District | Brawley, CA | - | Internship | 2026-11-26 | [View](https://veritahire.com/j/104232967) |
+| Nursing Assistant II, Nights, Variable Full Time, Cardiac PCU - Wiregrass Ranch Hospital - Wesley Chapel, FL | Florida Medical Clinic | WESLEY CHAPEL, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104231680) |
+| Registered Nurse (RN), Surgical Inpatient Unit, Nights - Wiregrass Ranch Hospital - Wesley Chapel, Florida | Florida Medical Clinic | WESLEY CHAPEL, FL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104231679) |
+| LPN/RN 1:1 and Resource Nurse for the District 2026/2027 | Burlington Public Schools | Burlington, MA | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104230947) |
+| Registered Nurse Orthopedic OR Full Time Days Sign-on Bonus Eligible | Northwestern Memorial Healthcare | Palos Heights, IL | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104229741) |
+| Registered Nurse Hospice Inpatient Registry | Northwestern Memorial Healthcare | Chicago, IL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104229735) |
+| Registered Nurse Hospice Inpatient Registry Days | Northwestern Memorial Healthcare | Chicago, IL | - | Part-time | 2026-11-26 | [View](https://veritahire.com/j/104229734) |
+| Licensed Practical Nurse (LPN) FT Night | Wellpath | Eugene, OR | - | Full-time | 2026-11-26 | [View](https://veritahire.com/j/104213812) |
+| Registered Nurse (RN) - Critical Care (PICU), San Diego, CA | Rady Children's Physician Management Services | San Diego, CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/105024496) |
+| Registered Nurse (RN) - Neonatal ICU Mercy (NICU), Hillcrest, San Diego, CA | Rady Children's Physician Management Services | San Diego, CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/105024486) |
+| Registered Nurse (RN) - Neonatal ICU (NICU), San Diego, CA | Rady Children's Physician Management Services | San Diego, CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/105024485) |
+| Travel MedSurg Registered Nurse (RN) job in Greer, SC | Gifted Nurses LLC | Greer, SC | - | - | 2026-11-26 | [View](https://veritahire.com/j/104850339) |
+| Local MedSurg Registered Nurse (RN) job in Marrero, LA | Gifted Nurses LLC | Marrero, LA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104850334) |
+| Travel MedSurg Registered Nurse (RN) job in Madison, WI | Gifted Nurses LLC | Madison, WI | - | - | 2026-11-26 | [View](https://veritahire.com/j/104850332) |
+| Pediatric Case Manager (RN) - BCH Oakland | UC San Francisco (UCSF) | Oakland, CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104737679) |
+| LVN | Pediatrix Medical Group | Houston, TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104691211) |
+| New Nurse Graduate-RN | Dialysis Clinic, Inc. | Rapid City, SD | - | - | 2026-11-26 | [View](https://veritahire.com/j/104658820) |
+| On-Call RN | Bristol Hospice | Overland Park, KS | - | - | 2026-11-26 | [View](https://veritahire.com/j/104566973) |
+| Registered Nurse, Emergency Center | HealthPartners | Hudson, WI | - | - | 2026-11-26 | [View](https://veritahire.com/j/104508134) |
+| Licensed Vocational Nurse (LVN) - TCP Gulfton | Texas Children's Hospital | Houston, TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104387918) |
+| PCA Aides - CNA | Active Day | Saluda, SC | - | - | 2026-11-26 | [View](https://veritahire.com/j/104315614) |
+| Research Nurse | University of Colorado | Aurora, CO | - | - | 2026-11-26 | [View](https://veritahire.com/j/104273361) |
+| Registered Nurse - Late Evening Shift | Cargill | CA | - | - | 2026-11-26 | [View](https://veritahire.com/j/104269485) |
+| EMT, Paramedic, or LPN/LVN | Kedrion Biopharma | TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104262138) |
+| Registered Nurse - Acute Oncology | CHRISTUS Health | San Antonio, TX | - | - | 2026-11-26 | [View](https://veritahire.com/j/104237709) |
 <!-- jobs:end -->
 
 ## Data and reuse
